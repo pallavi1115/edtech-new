@@ -1,0 +1,1001 @@
+name_of_institution,Level_of_the_institution,name_of_course,location,mode_of_course,Pre_recorded_session,Course_content,No_of_students,Duration,certification,Placement,course_level,No_of_instructor,Qualification_of_instructor,maintenance,Marketing_cost,Rating_of_course,Instructor_salary,Technology,mentor_for_doubt_clarification,No_of_Mentor_for_doubt_clarification,availability_Mentor_for_doubt_clarification,Price
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.5,978,60,Yes,No,Advance,1,B,7600,20000,4.5,84k,High,Yes,2,specific time,30000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,1548,184,Yes,No,Beginners,2,A,8796,8472,4.6,48k,High,Yes,1,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,184,Yes,No,Beginners,2,C,5620,5600,4.9,50k,Low,Yes,6,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,2k,60,Yes,Yes,Intermediate,1,B,4500,5600,4.9,68k,Medium,Yes,3,24X7,100000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.4,12k,270,Yes,No,Intermediate,1,A,7600,8472,4.3,50k,Medium,No,0,Not available,8000
+Edvancer,Medium,Tableau,Mumbai,Both,Yes,4.6,1548,120,Yes,No,Intermediate,2,B,7600,5600,4.9,68k,Medium,Yes,6,24X7,100000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.5,978,270,Yes,Yes,Intermediate,4,A,5620,20000,4.9,65k,High,Yes,2,specific time,30000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,270,Yes,Yes,Beginners,2,B,8796,5600,4.3,50k,Low,Yes,3,specific time,56000
+Edvancer,Medium,Java,Bengaluru,Both,Yes,4.8,2k,60,Yes,No,Intermediate,2,A,5620,2000,4.6,65k,High,No,0,Not available,10000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,6k,200,No,No,Intermediate,2,B,4500,8472,4.3,50k,Low,Yes,3,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,1548,120,Yes,No,Beginners,2,B,4500,5600,4.4,65k,Medium,Yes,3,specific time,56000
+Edvancer,Medium,Tableau,Mumbai,Both,Yes,4.4,2k,270,Yes,Yes,Beginners,1,B,8796,4687,4.9,94k,Medium,No,0,Not available,30000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.6,12k,184,No,Yes,Intermediate,4,A,4500,50000,4.6,68k,High,Yes,3,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,2k,60,Yes,No,Beginners,3,B,7600,5600,4.9,68k,High,Yes,3,24X7,150000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,2k,184,Yes,No,Beginners,1,B,5620,4687,4.9,84k,High,Yes,1,specific time,15000
+Edvancer,Medium,Data science,Bengaluru,Both,Yes,4.6,2k,120,Yes,Yes,Beginners,1,A,7600,2000,4.8,65k,High,Yes,2,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,1548,270,Yes,No,Advance,4,B,7600,20000,4.6,84k,High,Yes,6,specific time,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,120,No,Yes,Beginners,2,C,7600,8472,4.3,65k,Low,Yes,1,24X7,100000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.6,50k,270,Yes,Yes,Intermediate,1,A,4500,20000,4.8,65k,Medium,Yes,2,specific time,15000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.4,1548,60,Yes,No,Intermediate,1,B,8796,8472,4.6,48k,High,Yes,3,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,270,Yes,Yes,Advance,3,B,8796,20000,4.8,48k,High,Yes,1,specific time,56000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.8,2k,120,Yes,Yes,Advance,3,B,8796,8472,4.3,48k,High,Yes,5,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,2k,60,Yes,No,Beginners,2,C,8796,5600,4.8,48k,Low,Yes,2,24X7,100000
+Great Learning,High,Artificial Intelligence,Pune,Both,Yes,4.6,2k,60,Yes,Yes,Advance,1,A,8796,74000,4.6,84k,High,Yes,1,24X7,56000
+Great Learning,High,Java,Pune,Both,Yes,4.8,978,150,Yes,No,Intermediate,3,A,8796,74000,4.6,94k,High,Yes,6,specific time,15000
+Edvancer,Medium,Cloud Computing,Mumbai,Both,Yes,4.5,6k,270,Yes,Yes,Intermediate,1,A,6822,20000,4.3,65k,Medium,Yes,5,specific time,30000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,8k,184,No,Yes,Beginners,3,B,4500,20000,4.5,65k,Medium,Yes,1,24X7,100000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.5,1548,270,Yes,No,Beginners,4,B,4500,5600,4.9,68k,High,Yes,1,24X7,56000
+Great Learning,High,Cloud Computing,Hyderabad,Both,Yes,4.5,978,60,Yes,Yes,Beginners,3,A,7600,74000,4.8,84k,High,Yes,1,specific time,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,200,Yes,No,Intermediate,1,B,7600,2000,4.6,48k,High,Yes,6,specific time,56000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,2k,200,Yes,Yes,Beginners,1,B,8796,5600,4.6,50k,Medium,Yes,1,24X7,56000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,978,120,Yes,No,Beginners,4,A,7600,2000,4.6,50k,Medium,Yes,5,24X7,100000
+Great Learning,High,Cloud Computing,Pune,Both,Yes,4.6,50k,200,Yes,Yes,Advance,2,A,6822,74000,4.3,84k,High,Yes,5,24X7,100000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.6,1548,120,Yes,Yes,Beginners,4,A,4567,20000,4.3,68k,High,Yes,1,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.8,1548,120,Yes,Yes,Advance,3,B,4567,8472,4.9,68k,High,Yes,1,specific time,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,1548,184,Yes,Yes,Beginners,3,A,7600,5600,4.3,50k,High,Yes,2,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,1548,184,Yes,Yes,Intermediate,1,C,4500,8472,4.3,50k,Low,Yes,1,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,1548,270,Yes,Yes,Beginners,2,B,5620,20000,4.8,65k,High,Yes,5,24X7,56000
+Great Learning,High,Artificial Intelligence,Pune,Both,Yes,4.6,12k,200,Yes,No,Advance,4,B,4500,74000,4.9,94k,High,Yes,6,24X7,100000
+Great Learning,High,Java,Bengaluru,Both,Yes,4.8,6k,200,Yes,No,Beginners,2,B,7600,20000,4.3,94k,High,Yes,6,specific time,15000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,2k,184,No,No,Intermediate,2,A,1200,50000,4.3,68k,High,Yes,3,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,184,Yes,Yes,Intermediate,2,B,7600,2000,4.6,25k,Low,Yes,3,specific time,30000
+Edvancer,Medium,Artificial Intelligence,Pune,Both,Yes,4.6,12k,150,Yes,Yes,Intermediate,3,B,5620,4687,4.8,84k,Medium,No,0,Not available,30000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,978,200,Yes,Yes,Beginners,4,A,7600,8472,4.3,84k,High,Yes,1,24X7,56000
+Edvancer,Medium,Cloud Computing,Bengaluru,Both,Yes,4.6,6k,60,Yes,Yes,Intermediate,1,A,5620,4687,4.3,65k,High,No,0,Not available,8000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.8,8k,184,Yes,Yes,Intermediate,1,A,5620,50000,4.3,94k,High,Yes,5,specific time,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,1548,200,Yes,No,Beginners,1,B,5620,20000,4.9,65k,Medium,Yes,3,24X7,100000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.8,2k,120,Yes,No,Intermediate,4,B,6822,5600,4.8,68k,High,Yes,6,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,2k,150,Yes,No,Beginners,3,B,4500,4687,4.9,48k,High,Yes,2,specific time,10000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,6k,200,No,No,Beginners,2,B,8796,5600,4.6,48k,Low,Yes,5,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,1548,184,No,No,Intermediate,2,C,7600,2000,4.4,48k,Low,Yes,6,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,2k,150,Yes,No,Beginners,1,C,5620,5600,4.5,65k,Low,Yes,5,24X7,56000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,6k,270,Yes,No,Intermediate,4,A,1200,50000,4.3,84k,Medium,Yes,1,24X7,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.6,8k,184,No,Yes,Intermediate,2,B,4500,20000,4.6,50k,High,Yes,6,24X7,100000
+Edvancer,Medium,Cloud Computing,Hyderabad,Offline,No,4.6,6k,120,Yes,Yes,Intermediate,4,B,4500,4687,4.5,50k,Medium,Yes,3,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,1548,184,No,Yes,Advance,2,C,7600,4687,4.4,48k,Low,Yes,2,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,150,Yes,Yes,Advance,2,B,7600,8472,4.5,25k,Low,Yes,6,specific time,56000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.8,2k,270,Yes,No,Beginners,3,A,8796,5600,4.6,65k,High,Yes,1,24X7,56000
+Great Learning,High,Python,Delhi,Both,Yes,4.6,978,120,Yes,No,Beginners,2,B,7600,74000,4.4,65k,High,Yes,6,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.4,978,60,No,No,Intermediate,1,A,1200,50000,4.9,65k,Medium,Yes,3,24X7,100000
+Great Learning,High,Data science,Pune,Both,Yes,4.8,23k,200,Yes,Yes,Beginners,4,B,5620,20000,4.6,94k,High,Yes,1,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,270,Yes,No,Intermediate,1,C,8796,4687,4.4,48k,Low,Yes,1,24X7,100000
+Great Learning,High,Cloud Computing,Hyderabad,Both,Yes,4.6,2k,60,Yes,Yes,Intermediate,2,A,4567,20000,4.4,94k,High,Yes,6,24X7,100000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.6,6k,184,No,No,Intermediate,3,B,1200,20000,4.3,65k,Medium,Yes,3,24X7,150000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,6k,120,Yes,No,Beginners,3,A,4500,50000,4.8,65k,Medium,Yes,5,specific time,30000
+Edvancer,Medium,Python,Chennai,Both,Yes,4.6,6k,270,Yes,No,Intermediate,1,B,5620,20000,4.9,50k,High,No,0,Not available,5000
+Edvancer,Medium,Tableau,Hyderabad,Offline,No,4.8,6k,184,Yes,Yes,Intermediate,4,B,8796,8472,4.8,68k,Medium,No,0,Not available,30000
+Edvancer,Medium,Python,Delhi,Both,Yes,4.5,2k,270,Yes,No,Intermediate,1,A,8796,5600,4.9,48k,High,Yes,5,specific time,30000
+Edvancer,Medium,Data science,Chennai,Both,Yes,4.4,12k,270,Yes,Yes,Intermediate,2,B,7600,5600,4.9,68k,Medium,Yes,3,specific time,10000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.6,2k,184,Yes,No,Beginners,3,A,5620,8472,4.4,65k,High,Yes,6,specific time,10000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,12k,200,No,Yes,Beginners,3,A,1200,20000,4.9,65k,Medium,Yes,1,24X7,56000
+Great Learning,High,Java,Pune,Both,Yes,4.8,50k,200,Yes,No,Beginners,4,A,4500,74000,4.9,94k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,1548,120,Yes,Yes,Advance,2,B,7600,2000,4.5,84k,High,Yes,2,specific time,15000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,1548,184,Yes,Yes,Beginners,4,B,4500,5600,4.4,68k,Medium,Yes,6,specific time,30000
+Great Learning,High,Data science,Mumbai,Both,Yes,4.8,23k,60,Yes,Yes,Intermediate,2,B,5620,20000,4.9,84k,High,Yes,2,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,150,No,No,Intermediate,2,C,5620,4687,4.5,48k,Low,Yes,3,24X7,150000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,978,270,Yes,Yes,Intermediate,1,B,8796,5600,4.9,68k,High,Yes,3,specific time,56000
+Edvancer,Medium,Artificial Intelligence,Pune,Both,Yes,4.5,12k,200,Yes,Yes,Intermediate,4,A,4500,20000,4.6,68k,High,Yes,3,24X7,56000
+Great Learning,High,Data science,Mumbai,Both,Yes,4.8,50k,184,Yes,Yes,Advance,4,B,8796,50000,4.4,84k,High,Yes,5,24X7,100000
+Edvancer,Medium,Cloud Computing,Bengaluru,Both,Yes,4.6,2k,120,Yes,Yes,Advance,1,A,5620,5600,4.9,68k,Medium,Yes,1,24X7,56000
+Edvancer,Medium,Data science,Mumbai,Both,Yes,4.4,8k,184,Yes,Yes,Beginners,2,A,8796,8472,4.5,50k,Medium,Yes,1,specific time,56000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,1548,270,Yes,No,Beginners,1,A,4500,20000,4.8,68k,High,Yes,6,24X7,100000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,6k,120,No,No,Intermediate,1,A,1200,50000,4.9,68k,High,Yes,3,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.6,50k,150,Yes,No,Beginners,4,A,4500,50000,4.6,48k,Medium,Yes,1,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,60,No,No,Intermediate,1,C,7600,5600,4.4,65k,Low,Yes,5,specific time,10000
+Edvancer,Medium,Python,Mumbai,Both,Yes,4.5,978,184,Yes,No,Beginners,3,B,8796,20000,4.5,65k,Medium,Yes,1,24X7,56000
+Great Learning,High,Data science,Delhi,Both,Yes,4.6,2k,120,Yes,Yes,Beginners,4,B,7600,20000,4.9,68k,High,Yes,2,24X7,100000
+Great Learning,High,Cloud Computing,Hyderabad,Both,Yes,4.5,8k,270,Yes,Yes,Beginners,3,A,4500,20000,4.6,65k,High,Yes,3,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,120,Yes,Yes,Beginners,2,A,8796,20000,4.3,65k,High,Yes,5,24X7,56000
+Great Learning,High,Cloud Computing,Hyderabad,Both,Yes,4.5,23k,184,Yes,Yes,Intermediate,4,B,4500,20000,4.6,65k,High,Yes,5,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,2k,150,Yes,No,Intermediate,4,A,5620,20000,4.6,48k,Medium,Yes,3,specific time,30000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.5,8k,270,Yes,Yes,Advance,1,A,6822,20000,4.5,68k,High,Yes,1,specific time,15000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.5,6k,184,Yes,Yes,Advance,3,B,8796,8472,4.9,94k,Medium,Yes,5,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,2k,200,No,Yes,Beginners,2,C,8796,8472,4.3,65k,Low,Yes,2,specific time,15000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,2k,60,Yes,No,Intermediate,4,A,5620,4687,4.8,84k,High,Yes,6,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,1548,184,Yes,Yes,Advance,4,B,8796,20000,4.5,65k,Medium,Yes,2,24X7,56000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,1548,120,Yes,Yes,Beginners,3,B,7600,2000,4.8,48k,High,Yes,3,specific time,15000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,184,Yes,No,Intermediate,1,C,4500,4687,4.8,48k,Low,Yes,5,24X7,150000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,978,150,Yes,No,Beginners,1,B,8796,5600,4.3,68k,Medium,Yes,2,specific time,30000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,2k,150,Yes,No,Intermediate,2,B,7600,5600,4.5,50k,High,Yes,5,specific time,10000
+Edvancer,Medium,Tableau,Pune,Both,Yes,4.6,978,60,Yes,Yes,Intermediate,4,B,5620,2000,4.6,48k,Medium,No,0,Not available,30000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,2k,60,Yes,No,Intermediate,3,A,4500,5600,4.4,65k,Medium,Yes,2,specific time,10000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,978,184,Yes,No,Beginners,1,B,7600,20000,4.3,65k,High,Yes,5,24X7,56000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.6,978,184,Yes,No,Intermediate,4,A,8796,20000,4.4,84k,High,Yes,5,specific time,56000
+Udemy,High,Java,Online mode only,Online,Yes,4.6,2k,270,No,No,Beginners,1,B,1200,20000,4.4,84k,Medium,Yes,3,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,978,120,Yes,Yes,Advance,2,C,7600,5600,4.5,50k,Low,Yes,1,specific time,56000
+Great Learning,High,Artificial Intelligence,Chennai,Both,Yes,4.6,23k,60,Yes,Yes,Intermediate,1,B,7600,74000,4.6,65k,High,Yes,3,specific time,30000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,1548,184,No,No,Beginners,2,B,4500,50000,4.8,50k,Medium,Yes,2,specific time,30000
+Udemy,High,Python,Online mode only,Online,Yes,4.6,1548,270,No,No,Beginners,4,A,4500,20000,4.8,84k,Medium,Yes,5,24X7,56000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,978,60,Yes,No,Intermediate,2,A,4500,8472,4.4,65k,High,Yes,3,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,270,Yes,No,Beginners,3,B,8796,2000,4.8,48k,Medium,Yes,2,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,2k,120,No,No,Beginners,1,C,4500,4687,4.3,65k,Low,Yes,2,24X7,100000
+Edvancer,Medium,Tableau,Delhi,Both,Yes,4.8,12k,150,Yes,No,Beginners,3,A,5620,5600,4.9,50k,Medium,Yes,1,specific time,30000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,120,No,Yes,Beginners,1,B,5620,5600,4.3,65k,Low,Yes,2,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,978,150,Yes,Yes,Advance,3,A,4500,2000,4.3,65k,Medium,Yes,6,24X7,100000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,12k,200,No,Yes,Advance,2,B,1200,50000,4.9,68k,Medium,Yes,1,specific time,10000
+360DigiTMG,High,Python,Pune,Both,Yes,4.6,2k,200,Yes,No,Intermediate,3,A,6822,5600,4.9,84k,High,Yes,5,specific time,30000
+Udemy,High,Data science,Online mode only,Online,Yes,4.6,978,120,Yes,Yes,Advance,2,A,1200,20000,4.8,65k,High,Yes,1,24X7,100000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,1548,184,No,No,Intermediate,3,B,4500,50000,4.8,50k,Medium,Yes,3,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.5,1548,184,Yes,Yes,Beginners,2,A,1200,20000,4.3,50k,High,Yes,2,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,200,Yes,No,Intermediate,2,A,7600,4687,4.3,84k,Medium,Yes,6,specific time,10000
+Udemy,High,Java,Online mode only,Online,Yes,4.8,6k,120,Yes,No,Intermediate,1,A,4500,50000,4.5,68k,High,Yes,5,specific time,56000
+Edvancer,Medium,Java,Chennai,Both,Yes,4.6,2k,60,Yes,No,Beginners,2,A,8796,5600,4.9,50k,High,No,0,Not available,5000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.8,1548,150,Yes,Yes,Intermediate,4,A,7600,20000,4.5,68k,High,Yes,2,specific time,30000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,978,120,Yes,Yes,Advance,4,A,8796,20000,4.8,68k,Medium,Yes,2,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,1548,184,Yes,No,Beginners,1,C,8796,8472,4.9,50k,Low,Yes,3,24X7,100000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,2k,60,Yes,Yes,Beginners,1,A,7600,4687,4.8,48k,Medium,Yes,5,specific time,15000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,23k,120,Yes,No,Intermediate,4,A,4500,20000,4.4,50k,Medium,Yes,3,specific time,15000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,1548,270,Yes,No,Beginners,2,B,7600,5600,4.4,48k,Low,Yes,2,specific time,15000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.5,2k,120,Yes,No,Intermediate,2,A,4500,5600,4.6,68k,High,Yes,1,24X7,100000
+360DigiTMG,High,Python,Pune,Both,Yes,4.6,1548,60,Yes,No,Beginners,4,B,5620,20000,4.5,65k,High,Yes,2,24X7,150000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,200,Yes,Yes,Beginners,2,B,7600,8472,4.3,50k,Medium,Yes,3,24X7,100000
+Great Learning,High,Cloud Computing,Mumbai,Both,Yes,4.8,23k,60,Yes,Yes,Intermediate,2,A,7600,50000,4.6,50k,High,Yes,6,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,6k,270,Yes,No,Beginners,1,C,8796,8472,4.8,65k,Low,Yes,1,24X7,56000
+Great Learning,High,Java,Mumbai,Both,Yes,4.5,978,270,Yes,No,Beginners,10,B,6822,50000,4.6,68k,High,Yes,6,specific time,30000
+Edvancer,Medium,Java,Bengaluru,Both,Yes,4.8,2k,200,Yes,No,Intermediate,1,A,4500,5600,4.8,48k,Medium,Yes,1,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,2k,120,No,Yes,Intermediate,1,B,5620,4687,4.6,48k,Low,Yes,1,24X7,100000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.6,1548,270,Yes,Yes,Advance,4,B,4567,20000,4.9,84k,High,Yes,1,specific time,10000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,184,No,No,Beginners,2,C,4500,2000,4.8,50k,Low,Yes,1,24X7,100000
+Edvancer,Medium,Artificial Intelligence,Hyderabad,Offline,No,4.8,978,184,Yes,No,Beginners,4,A,5620,2000,4.5,50k,High,Yes,5,24X7,150000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,978,150,No,Yes,Intermediate,1,B,4500,8472,4.5,48k,Low,Yes,6,specific time,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,150,Yes,Yes,Intermediate,3,A,5620,5600,4.3,48k,High,Yes,2,24X7,100000
+Edvancer,Medium,Tableau,Chennai,Both,Yes,4.4,8k,184,Yes,No,Beginners,4,B,5620,5600,4.9,84k,Medium,No,0,Not available,8000
+Udemy,High,Data science,Online mode only,Online,Yes,4.6,50k,200,No,Yes,Advance,2,A,4500,50000,4.9,65k,Medium,Yes,6,24X7,100000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.8,978,184,Yes,Yes,Beginners,2,A,4567,5600,4.8,84k,High,Yes,5,24X7,56000
+Edvancer,Medium,Java,Pune,Both,Yes,4.8,8k,120,Yes,No,Beginners,2,B,4500,4687,4.5,48k,Medium,No,0,Not available,10000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.6,2k,200,Yes,Yes,Intermediate,4,A,4500,5600,4.4,65k,High,Yes,3,specific time,15000
+Great Learning,High,Python,Chennai,Both,Yes,4.8,23k,150,Yes,No,Intermediate,10,B,7600,20000,4.9,94k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,1548,150,Yes,Yes,Beginners,2,B,7600,4687,4.3,50k,Medium,Yes,2,24X7,100000
+Great Learning,High,Cloud Computing,Pune,Both,Yes,4.6,8k,150,Yes,Yes,Advance,10,A,4500,74000,4.4,84k,High,Yes,5,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,6k,200,No,No,Beginners,2,B,5620,4687,4.4,48k,Low,Yes,5,specific time,30000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,1548,200,Yes,Yes,Beginners,2,A,4500,20000,4.4,84k,High,Yes,3,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,978,150,Yes,Yes,Advance,2,A,5620,5600,4.5,65k,High,Yes,5,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.8,2k,200,Yes,No,Beginners,4,B,4567,8472,4.9,65k,High,Yes,3,24X7,100000
+Edvancer,Medium,Tableau,Chennai,Both,Yes,4.8,8k,200,Yes,Yes,Beginners,4,A,6822,5600,4.3,94k,Medium,Yes,2,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.4,2k,184,No,No,Advance,3,B,1200,20000,4.8,68k,High,Yes,6,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,978,150,Yes,No,Intermediate,3,B,7600,20000,4.5,68k,Medium,Yes,5,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,978,270,Yes,No,Intermediate,3,A,5620,5600,4.8,50k,High,Yes,6,specific time,15000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,2k,270,Yes,No,Intermediate,3,A,5620,4687,4.9,68k,High,Yes,3,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,6k,120,No,Yes,Beginners,1,B,8796,5600,4.8,25k,Low,Yes,3,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,978,184,Yes,No,Intermediate,4,A,8796,4687,4.8,65k,High,Yes,5,specific time,15000
+Udemy,High,Data science,Online mode only,Online,Yes,4.4,2k,200,No,Yes,Advance,2,A,4500,20000,4.5,48k,High,Yes,3,24X7,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.8,978,200,Yes,Yes,Intermediate,4,B,8796,20000,4.4,50k,High,Yes,3,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,978,60,Yes,Yes,Advance,1,A,7600,5600,4.9,48k,Medium,Yes,6,24X7,150000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.5,8k,60,Yes,Yes,Beginners,3,A,5620,50000,4.8,84k,High,Yes,3,specific time,10000
+Edvancer,Medium,Artificial Intelligence,Chennai,Both,Yes,4.5,6k,200,Yes,Yes,Beginners,4,A,8796,5600,4.5,84k,Medium,No,0,Not available,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,1548,270,Yes,No,Beginners,3,B,8796,5600,4.4,48k,Medium,Yes,6,specific time,56000
+Edvancer,Medium,Python,Hyderabad,Offline,No,4.8,8k,120,Yes,No,Beginners,3,A,4500,2000,4.5,94k,High,Yes,3,specific time,30000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,120,No,Yes,Beginners,1,C,7600,5600,4.5,50k,Low,Yes,2,specific time,15000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.5,978,184,Yes,Yes,Intermediate,1,A,8796,20000,4.5,48k,High,Yes,6,24X7,100000
+Edvancer,Medium,Data science,Hyderabad,Offline,No,4.5,6k,270,Yes,Yes,Intermediate,1,B,5620,8472,4.3,65k,High,No,0,Not available,5000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.8,8k,184,Yes,No,Intermediate,4,B,7600,5600,4.4,84k,High,Yes,2,24X7,56000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.6,2k,270,Yes,Yes,Advance,3,A,8796,20000,4.3,50k,High,Yes,6,specific time,56000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.8,6k,150,Yes,No,Beginners,2,B,4500,4687,4.4,50k,High,No,0,Not available,10000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,184,No,No,Beginners,1,B,7600,2000,4.8,65k,Low,Yes,2,24X7,100000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.6,2k,60,Yes,No,Intermediate,2,A,4500,50000,4.5,48k,Medium,Yes,6,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,2k,270,Yes,No,Intermediate,4,B,7600,2000,4.3,50k,Medium,Yes,6,specific time,10000
+Great Learning,High,Java,Chennai,Both,Yes,4.5,6k,184,Yes,No,Intermediate,3,B,7600,50000,4.4,68k,High,Yes,2,specific time,56000
+Edvancer,Medium,Tableau,Hyderabad,Offline,No,4.5,2k,270,Yes,Yes,Beginners,4,B,7600,5600,4.3,50k,High,Yes,6,specific time,10000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,6k,150,Yes,Yes,Intermediate,2,B,5620,5600,4.3,65k,Low,Yes,3,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,150,Yes,No,Intermediate,2,B,7600,8472,4.6,25k,Low,Yes,5,24X7,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,2k,150,Yes,Yes,Intermediate,1,B,4500,5600,4.9,68k,High,Yes,6,24X7,100000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.8,6k,200,Yes,No,Intermediate,4,A,5620,4687,4.8,48k,High,No,0,Not available,5000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.6,6k,150,Yes,No,Advance,4,B,1200,20000,4.5,68k,Medium,Yes,5,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,8k,60,Yes,No,Beginners,3,B,4500,50000,4.8,65k,Medium,Yes,3,24X7,100000
+Edvancer,Medium,Tableau,Bengaluru,Both,Yes,4.6,8k,60,Yes,Yes,Intermediate,3,A,8796,2000,4.9,94k,Medium,Yes,1,24X7,150000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.6,978,60,Yes,No,Intermediate,2,B,6822,5600,4.4,50k,High,Yes,2,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,2k,150,No,No,Intermediate,2,B,5620,4687,4.8,48k,Low,Yes,3,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,978,270,Yes,Yes,Advance,4,B,5620,8472,4.8,68k,Medium,Yes,2,specific time,30000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,150,Yes,No,Intermediate,2,B,5620,5600,4.6,48k,Medium,Yes,3,24X7,56000
+360DigiTMG,High,Python,Pune,Both,Yes,4.5,978,150,Yes,No,Intermediate,2,B,4500,8472,4.9,50k,High,Yes,3,specific time,10000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.5,12k,184,Yes,No,Beginners,2,B,4500,50000,4.9,50k,Medium,Yes,3,specific time,56000
+Edvancer,Medium,Java,Pune,Both,Yes,4.6,8k,184,Yes,No,Intermediate,4,A,5620,4687,4.8,94k,High,Yes,3,24X7,56000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,978,200,Yes,Yes,Beginners,4,B,8796,2000,4.9,65k,High,Yes,6,24X7,56000
+Great Learning,High,Cloud Computing,Pune,Both,Yes,4.5,6k,150,Yes,Yes,Intermediate,2,B,5620,74000,4.6,50k,High,Yes,2,24X7,56000
+Great Learning,High,Data science,Mumbai,Both,Yes,4.6,50k,270,Yes,Yes,Beginners,10,A,5620,74000,4.6,94k,High,Yes,3,24X7,100000
+Great Learning,High,Tableau,Bengaluru,Both,Yes,4.5,1548,150,Yes,No,Intermediate,10,A,8796,74000,4.9,68k,High,Yes,3,24X7,100000
+Great Learning,High,Artificial Intelligence,Chennai,Both,Yes,4.8,23k,270,Yes,Yes,Advance,10,A,7600,20000,4.9,84k,High,Yes,2,specific time,56000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.6,8k,184,Yes,Yes,Intermediate,2,A,7600,74000,4.5,68k,High,Yes,5,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.6,2k,270,Yes,No,Advance,4,B,5620,5600,4.5,48k,High,Yes,6,specific time,15000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.6,2k,150,No,Yes,Advance,1,B,4500,50000,4.9,68k,High,Yes,6,specific time,10000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,978,184,Yes,Yes,Advance,1,C,4500,8472,4.6,48k,Low,Yes,6,24X7,100000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.6,978,200,Yes,Yes,Advance,3,B,4500,5600,4.5,68k,High,Yes,3,specific time,15000
+Edvancer,Medium,Java,Pune,Both,Yes,4.4,2k,150,Yes,No,Beginners,2,B,8796,2000,4.9,94k,High,Yes,3,specific time,30000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.8,1548,120,No,Yes,Advance,2,A,4500,50000,4.6,84k,Medium,Yes,2,specific time,56000
+Great Learning,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,1548,200,Yes,Yes,Beginners,2,B,7600,20000,4.8,50k,High,Yes,2,specific time,56000
+Udemy,High,Java,Online mode only,Online,Yes,4.6,23k,150,No,No,Beginners,2,A,1200,50000,4.5,84k,Medium,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,978,120,Yes,Yes,Intermediate,2,B,4500,5600,4.5,48k,Medium,Yes,3,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,184,Yes,No,Intermediate,2,A,8796,4687,4.4,50k,Medium,Yes,2,specific time,30000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.8,978,150,Yes,Yes,Advance,1,A,4500,8472,4.3,84k,High,Yes,6,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,1548,184,Yes,No,Intermediate,2,A,5620,8472,4.6,50k,High,Yes,5,specific time,10000
+Great Learning,High,Python,Chennai,Both,Yes,4.5,23k,270,Yes,No,Intermediate,3,B,5620,74000,4.4,84k,High,Yes,3,specific time,15000
+Great Learning,High,Data science,Pune,Both,Yes,4.5,978,120,Yes,Yes,Intermediate,2,A,5620,20000,4.6,94k,High,Yes,2,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.5,978,270,Yes,Yes,Intermediate,4,A,4567,5600,4.6,48k,High,Yes,1,24X7,150000
+Edvancer,Medium,Java,Delhi,Both,Yes,4.4,8k,150,Yes,No,Beginners,1,A,7600,5600,4.9,94k,Medium,Yes,2,specific time,30000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,184,Yes,No,Beginners,1,B,8796,4687,4.9,48k,High,Yes,2,specific time,10000
+Edvancer,Medium,Python,Hyderabad,Offline,No,4.5,1548,150,Yes,No,Beginners,1,B,7600,5600,4.9,65k,High,Yes,2,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,978,270,Yes,No,Intermediate,4,A,5620,4687,4.4,84k,High,Yes,6,24X7,100000
+Udemy,High,Data science,Online mode only,Online,Yes,4.8,978,200,No,Yes,Beginners,4,B,1200,20000,4.9,48k,Medium,Yes,2,specific time,56000
+Edvancer,Medium,Cloud Computing,Pune,Both,Yes,4.5,6k,60,Yes,Yes,Intermediate,1,B,4567,8472,4.8,50k,High,Yes,2,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,1548,270,No,No,Intermediate,1,B,8796,8472,4.4,48k,Low,Yes,3,24X7,56000
+Great Learning,High,Artificial Intelligence,Mumbai,Both,Yes,4.8,6k,200,Yes,No,Intermediate,4,A,6822,74000,4.6,94k,High,Yes,1,24X7,100000
+Edvancer,Medium,Python,Hyderabad,Offline,No,4.5,978,60,Yes,No,Beginners,2,B,4567,8472,4.3,84k,High,Yes,2,24X7,100000
+Edvancer,Medium,Tableau,Bengaluru,Both,Yes,4.8,978,60,Yes,No,Intermediate,1,A,4500,2000,4.3,50k,Medium,No,0,Not available,10000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.5,1548,270,Yes,No,Beginners,4,B,7600,5600,4.9,50k,High,Yes,1,specific time,15000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.5,2k,270,Yes,Yes,Beginners,1,A,4500,20000,4.5,68k,High,Yes,2,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,2k,270,Yes,No,Intermediate,1,B,7600,5600,4.3,65k,High,Yes,1,specific time,30000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.5,2k,200,Yes,No,Intermediate,1,A,6822,4687,4.5,48k,High,No,0,Not available,5000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,2k,200,Yes,No,Intermediate,3,A,8796,20000,4.9,48k,High,Yes,2,specific time,56000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,978,150,Yes,No,Intermediate,2,A,1200,50000,4.5,48k,High,Yes,6,specific time,10000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,2k,184,Yes,No,Intermediate,3,A,5620,8472,4.3,68k,Medium,Yes,3,specific time,10000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,1548,184,No,Yes,Intermediate,4,A,4500,20000,4.6,84k,Medium,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,2k,270,Yes,Yes,Advance,1,B,7600,5600,4.9,68k,High,Yes,3,specific time,15000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.5,1548,120,Yes,Yes,Advance,2,B,5620,74000,4.4,50k,High,Yes,2,specific time,15000
+Great Learning,High,Python,Hyderabad,Both,Yes,4.8,12k,120,Yes,No,Intermediate,10,B,4500,20000,4.8,65k,High,Yes,2,24X7,56000
+Great Learning,High,Java,Chennai,Both,Yes,4.8,8k,150,Yes,No,Beginners,2,B,7600,50000,4.8,94k,High,Yes,5,specific time,10000
+Great Learning,High,Python,Mumbai,Both,Yes,4.6,978,270,Yes,No,Intermediate,3,A,5620,74000,4.4,84k,High,Yes,5,specific time,30000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,270,No,No,Intermediate,1,B,7600,5600,4.4,50k,Low,Yes,5,24X7,100000
+Great Learning,High,Python,Delhi,Both,Yes,4.6,1548,120,Yes,No,Beginners,4,B,7600,74000,4.4,50k,High,Yes,1,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,8k,270,No,No,Intermediate,1,A,4500,50000,4.4,50k,High,Yes,6,specific time,10000
+Great Learning,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,978,120,Yes,No,Beginners,10,B,4500,74000,4.6,50k,High,Yes,5,specific time,10000
+Udemy,High,Python,Online mode only,Online,Yes,4.4,2k,184,Yes,No,Beginners,1,B,1200,20000,4.4,84k,Medium,Yes,2,specific time,30000
+Great Learning,High,Data science,Hyderabad,Both,Yes,4.6,8k,150,Yes,Yes,Intermediate,1,B,8796,50000,4.5,94k,High,Yes,1,specific time,30000
+Edvancer,Medium,Python,Bengaluru,Both,Yes,4.5,8k,60,Yes,No,Intermediate,4,A,8796,20000,4.4,50k,Medium,No,0,Not available,8000
+Great Learning,High,Tableau,Bengaluru,Both,Yes,4.6,2k,184,Yes,No,Intermediate,10,B,4500,50000,4.3,65k,High,Yes,2,24X7,56000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.6,1548,120,Yes,Yes,Intermediate,1,B,4567,5600,4.4,48k,High,Yes,1,24X7,100000
+Edvancer,Medium,Python,Hyderabad,Offline,No,4.5,12k,150,Yes,No,Intermediate,1,A,4500,20000,4.6,84k,Medium,Yes,5,specific time,30000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.8,1548,150,Yes,No,Intermediate,2,B,8796,20000,4.5,68k,High,Yes,2,specific time,15000
+360DigiTMG,High,Python,Pune,Both,Yes,4.8,1548,200,Yes,No,Intermediate,1,A,4567,20000,4.8,84k,High,Yes,1,24X7,150000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.6,978,60,Yes,No,Beginners,3,A,7600,8472,4.9,68k,High,Yes,2,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,200,Yes,No,Beginners,1,C,8796,4687,4.3,25k,Low,Yes,5,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,978,184,Yes,No,Intermediate,1,B,8796,4687,4.4,48k,Medium,Yes,2,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,1548,120,No,No,Beginners,2,C,4500,2000,4.6,25k,Low,Yes,5,specific time,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,8k,200,Yes,Yes,Beginners,2,B,4500,20000,4.8,50k,High,Yes,5,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,50k,184,No,No,Intermediate,1,B,1200,50000,4.3,68k,Medium,Yes,2,specific time,56000
+Great Learning,High,Java,Pune,Both,Yes,4.5,12k,120,Yes,No,Beginners,10,A,8796,74000,4.4,94k,High,Yes,6,24X7,56000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,978,184,Yes,Yes,Advance,3,A,4500,2000,4.9,50k,Medium,Yes,6,specific time,30000
+Edvancer,Medium,Artificial Intelligence,Bengaluru,Both,Yes,4.6,6k,150,Yes,No,Intermediate,2,A,8796,4687,4.5,50k,Medium,Yes,5,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,2k,60,No,No,Intermediate,2,B,5620,4687,4.3,25k,Low,Yes,1,24X7,100000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,1548,270,Yes,Yes,Advance,4,A,8796,20000,4.4,65k,Medium,Yes,1,specific time,56000
+Great Learning,High,Java,Delhi,Both,Yes,4.8,8k,270,Yes,No,Intermediate,3,A,7600,20000,4.9,50k,High,Yes,6,specific time,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,2k,270,Yes,No,Beginners,1,A,8796,5600,4.8,65k,High,Yes,2,24X7,56000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.5,2k,270,Yes,Yes,Advance,1,B,4500,8472,4.6,50k,High,Yes,6,specific time,10000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.8,2k,184,Yes,No,Intermediate,4,B,5620,5600,4.4,50k,High,Yes,3,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,2k,120,Yes,No,Beginners,1,A,5620,5600,4.3,50k,Medium,Yes,6,24X7,56000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,1548,150,Yes,No,Beginners,1,A,4567,8472,4.8,50k,High,Yes,5,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.6,1548,184,No,No,Intermediate,2,A,4500,50000,4.9,48k,High,Yes,2,specific time,15000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.8,1548,120,Yes,Yes,Beginners,4,B,7600,8472,4.6,48k,High,Yes,1,24X7,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,2k,120,Yes,Yes,Beginners,4,A,4500,20000,4.6,84k,Medium,Yes,3,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.6,8k,60,Yes,Yes,Advance,3,A,4500,20000,4.9,68k,High,Yes,3,24X7,100000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,2k,200,Yes,Yes,Beginners,3,B,4500,20000,4.8,50k,Medium,Yes,6,specific time,56000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.5,2k,184,Yes,No,Beginners,3,B,8796,5600,4.4,65k,High,Yes,5,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,978,270,Yes,No,Beginners,2,B,5620,8472,4.5,50k,Medium,Yes,5,specific time,30000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.6,978,270,Yes,No,Beginners,3,A,5620,20000,4.9,68k,Medium,Yes,6,specific time,10000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,2k,60,Yes,No,Intermediate,2,B,5620,2000,4.3,65k,Low,Yes,1,24X7,100000
+Edvancer,Medium,Cloud Computing,Bengaluru,Both,Yes,4.4,12k,120,Yes,Yes,Advance,1,B,4500,4687,4.3,84k,Medium,No,0,Not available,5000
+Edvancer,Medium,Data science,Mumbai,Both,Yes,4.5,6k,270,Yes,Yes,Beginners,2,A,6822,20000,4.3,94k,High,Yes,1,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.8,1548,270,Yes,Yes,Intermediate,2,A,7600,5600,4.4,84k,High,Yes,5,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,184,Yes,No,Beginners,4,B,5620,4687,4.4,48k,Medium,Yes,1,24X7,100000
+Great Learning,High,Cloud Computing,Mumbai,Both,Yes,4.8,12k,120,Yes,Yes,Intermediate,1,A,8796,74000,4.5,84k,High,Yes,1,24X7,56000
+Udemy,High,Data science,Online mode only,Online,Yes,4.4,50k,120,Yes,Yes,Intermediate,2,A,1200,50000,4.9,84k,High,Yes,5,24X7,100000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.6,1548,60,Yes,Yes,Beginners,1,A,4567,5600,4.6,50k,High,Yes,5,specific time,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,60,Yes,Yes,Advance,2,A,8796,20000,4.4,65k,Medium,Yes,5,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,1548,60,Yes,Yes,Intermediate,3,B,7600,2000,4.6,68k,High,Yes,5,specific time,10000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.5,978,200,Yes,No,Beginners,1,B,5620,20000,4.3,65k,High,Yes,6,specific time,30000
+Edvancer,Medium,Java,Delhi,Both,Yes,4.6,6k,184,Yes,No,Intermediate,3,B,7600,4687,4.9,94k,High,No,0,Not available,5000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,2k,120,Yes,No,Intermediate,4,B,8796,20000,4.4,68k,High,Yes,1,24X7,100000
+Edvancer,Medium,Data science,Chennai,Both,Yes,4.4,1548,150,Yes,Yes,Intermediate,1,A,6822,2000,4.8,68k,High,No,0,Not available,8000
+Edvancer,Medium,Cloud Computing,Mumbai,Both,Yes,4.6,2k,150,Yes,Yes,Intermediate,1,B,5620,8472,4.8,48k,Medium,No,0,Not available,5000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.8,2k,184,Yes,No,Intermediate,4,B,7600,5600,4.8,48k,High,Yes,5,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,270,No,No,Intermediate,2,C,5620,4687,4.4,50k,Low,Yes,6,specific time,30000
+Great Learning,High,Tableau,Mumbai,Both,Yes,4.6,12k,150,Yes,No,Intermediate,10,B,5620,20000,4.4,50k,High,Yes,2,24X7,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,8k,200,No,Yes,Advance,1,B,4500,50000,4.3,50k,Medium,Yes,1,24X7,56000
+Edvancer,Medium,Cloud Computing,Delhi,Both,Yes,4.5,1548,150,Yes,Yes,Advance,2,B,8796,8472,4.8,48k,Medium,Yes,3,specific time,15000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,2k,150,Yes,No,Beginners,3,B,7600,8472,4.4,68k,Medium,Yes,6,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.8,23k,150,Yes,No,Beginners,4,B,1200,20000,4.3,50k,High,Yes,2,specific time,30000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,6k,184,No,No,Beginners,2,C,4500,5600,4.3,50k,Low,Yes,3,24X7,100000
+Great Learning,High,Python,Mumbai,Both,Yes,4.5,50k,184,Yes,No,Beginners,3,A,5620,74000,4.9,68k,High,Yes,1,24X7,56000
+Udemy,High,Data science,Online mode only,Online,Yes,4.4,50k,150,Yes,Yes,Beginners,4,B,1200,20000,4.8,48k,Medium,Yes,2,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,978,184,Yes,No,Intermediate,4,B,4500,8472,4.5,50k,High,Yes,5,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,978,60,Yes,Yes,Beginners,2,C,5620,2000,4.9,65k,Low,Yes,3,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,1548,270,Yes,No,Beginners,2,B,5620,8472,4.4,48k,Low,Yes,6,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,270,Yes,Yes,Beginners,1,B,5620,8472,4.9,50k,Low,Yes,1,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,2k,270,Yes,No,Beginners,2,C,7600,5600,4.8,48k,Low,Yes,5,specific time,15000
+Great Learning,High,Java,Bengaluru,Both,Yes,4.5,978,184,Yes,No,Beginners,3,A,7600,74000,4.5,65k,High,Yes,5,24X7,100000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.5,978,184,Yes,No,Beginners,1,B,7600,20000,4.6,50k,High,Yes,1,24X7,56000
+Great Learning,High,Artificial Intelligence,Mumbai,Both,Yes,4.6,8k,60,Yes,Yes,Intermediate,3,A,6822,20000,4.3,94k,High,Yes,5,24X7,100000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,978,184,Yes,No,Advance,4,B,7600,2000,4.3,50k,High,Yes,3,specific time,30000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,2k,200,Yes,Yes,Intermediate,4,B,7600,20000,4.9,84k,High,Yes,6,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.4,6k,150,No,No,Intermediate,4,A,4500,50000,4.5,84k,Medium,Yes,5,24X7,100000
+Great Learning,High,Python,Chennai,Both,Yes,4.8,50k,184,Yes,No,Intermediate,2,A,7600,74000,4.3,68k,High,Yes,1,24X7,150000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.8,2k,120,Yes,Yes,Intermediate,2,A,8796,8472,4.4,48k,High,Yes,2,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,270,Yes,No,Beginners,1,B,4500,5600,4.5,65k,Low,Yes,2,specific time,56000
+Great Learning,High,Java,Delhi,Both,Yes,4.6,978,184,Yes,No,Beginners,2,A,8796,50000,4.8,84k,High,Yes,5,specific time,15000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,23k,200,Yes,No,Beginners,4,B,4500,20000,4.6,48k,High,Yes,3,24X7,56000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.8,978,150,Yes,Yes,Beginners,3,B,8796,8472,4.3,84k,High,Yes,3,24X7,56000
+Great Learning,High,Java,Bengaluru,Both,Yes,4.8,8k,60,Yes,No,Beginners,10,A,8796,20000,4.8,68k,High,Yes,1,24X7,150000
+Edvancer,Medium,Artificial Intelligence,Mumbai,Both,Yes,4.4,6k,200,Yes,No,Beginners,3,B,8796,5600,4.6,84k,High,Yes,1,specific time,30000
+Edvancer,Medium,Data science,Hyderabad,Offline,No,4.4,2k,150,Yes,Yes,Beginners,3,A,4567,5600,4.8,50k,Medium,No,0,Not available,5000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,1548,120,Yes,No,Intermediate,2,C,7600,8472,4.4,48k,Low,Yes,3,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,978,60,Yes,Yes,Intermediate,2,B,7600,2000,4.4,65k,Low,Yes,6,specific time,30000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,2k,150,No,Yes,Intermediate,1,B,5620,8472,4.5,65k,Low,Yes,1,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,184,Yes,Yes,Intermediate,1,A,7600,20000,4.8,84k,Medium,Yes,1,specific time,56000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.6,978,270,Yes,Yes,Beginners,4,B,4500,5600,4.3,48k,High,Yes,3,specific time,15000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,1548,200,Yes,No,Intermediate,1,B,7600,8472,4.4,65k,Low,Yes,6,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.6,2k,200,Yes,Yes,Beginners,1,B,5620,20000,4.9,48k,High,Yes,5,specific time,30000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,978,60,No,Yes,Intermediate,1,B,8796,8472,4.6,25k,Low,Yes,1,24X7,56000
+Great Learning,High,Python,Chennai,Both,Yes,4.6,23k,200,Yes,No,Intermediate,4,B,7600,50000,4.5,94k,High,Yes,1,24X7,100000
+Edvancer,Medium,Python,Chennai,Both,Yes,4.5,8k,60,Yes,No,Beginners,1,B,8796,4687,4.4,50k,High,Yes,1,24X7,100000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,1548,184,Yes,No,Intermediate,1,A,5620,5600,4.9,50k,High,Yes,6,specific time,56000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.5,2k,270,Yes,Yes,Advance,3,A,5620,20000,4.4,84k,High,Yes,1,24X7,100000
+Great Learning,High,Cloud Computing,Mumbai,Both,Yes,4.8,50k,150,Yes,Yes,Beginners,2,B,6822,50000,4.4,50k,High,Yes,3,specific time,30000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,2k,150,No,Yes,Intermediate,4,A,1200,50000,4.9,50k,High,Yes,6,24X7,150000
+Great Learning,High,Java,Mumbai,Both,Yes,4.5,978,150,Yes,No,Beginners,2,B,5620,74000,4.3,50k,High,Yes,2,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,1548,120,Yes,Yes,Advance,2,A,8796,2000,4.3,50k,Medium,Yes,3,specific time,10000
+Great Learning,High,Java,Chennai,Both,Yes,4.6,1548,184,Yes,No,Intermediate,10,B,8796,50000,4.3,68k,High,Yes,1,specific time,10000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,50k,60,No,No,Intermediate,4,A,4500,20000,4.9,48k,Medium,Yes,2,24X7,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,23k,150,No,Yes,Advance,3,A,1200,50000,4.3,65k,Medium,Yes,5,specific time,10000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,978,150,Yes,No,Beginners,3,B,8796,8472,4.8,84k,Medium,Yes,3,specific time,15000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.5,8k,150,Yes,Yes,Beginners,1,B,7600,8472,4.6,65k,High,Yes,5,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,120,Yes,Yes,Intermediate,4,A,8796,4687,4.5,65k,High,Yes,2,24X7,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.8,2k,200,Yes,Yes,Advance,1,B,8796,5600,4.8,48k,High,Yes,5,24X7,100000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.8,23k,184,Yes,No,Intermediate,3,A,5620,74000,4.5,84k,High,Yes,1,specific time,56000
+Udemy,High,Python,Online mode only,Online,Yes,4.5,8k,270,Yes,No,Beginners,3,A,1200,50000,4.5,84k,Medium,Yes,3,24X7,56000
+Udemy,High,Python,Online mode only,Online,Yes,4.5,23k,184,Yes,No,Intermediate,2,A,4500,20000,4.4,68k,High,Yes,3,24X7,56000
+Great Learning,High,Java,Pune,Both,Yes,4.8,978,270,Yes,No,Intermediate,2,B,7600,20000,4.4,84k,High,Yes,6,24X7,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,50k,60,Yes,Yes,Intermediate,4,A,4500,50000,4.9,48k,Medium,Yes,6,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,1548,200,Yes,No,Intermediate,2,B,7600,4687,4.3,25k,Low,Yes,1,specific time,30000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.5,6k,184,Yes,Yes,Beginners,3,A,7600,74000,4.9,84k,High,Yes,5,specific time,10000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.4,6k,60,Yes,No,Beginners,1,B,7600,5600,4.9,68k,High,No,0,Not available,10000
+Great Learning,High,Tableau,Hyderabad,Both,Yes,4.8,12k,120,Yes,Yes,Intermediate,2,A,8796,50000,4.3,94k,High,Yes,5,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,150,Yes,Yes,Advance,2,A,4500,2000,4.6,50k,High,Yes,5,24X7,56000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.8,1548,184,Yes,No,Beginners,1,B,7600,8472,4.9,48k,High,Yes,5,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,1548,150,Yes,No,Beginners,1,B,4500,2000,4.3,84k,Medium,Yes,6,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,200,No,No,Beginners,1,B,5620,2000,4.9,65k,Low,Yes,5,specific time,10000
+Edvancer,Medium,Tableau,Bengaluru,Both,Yes,4.5,12k,184,Yes,Yes,Beginners,2,B,5620,4687,4.4,65k,Medium,Yes,5,specific time,30000
+Great Learning,High,Python,Chennai,Both,Yes,4.5,2k,184,Yes,No,Intermediate,2,B,5620,20000,4.4,68k,High,Yes,6,24X7,100000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.5,2k,270,Yes,Yes,Advance,3,B,5620,20000,4.8,65k,High,Yes,1,24X7,56000
+Edvancer,Medium,Cloud Computing,Mumbai,Both,Yes,4.4,6k,270,Yes,Yes,Beginners,4,A,8796,2000,4.4,48k,Medium,No,0,Not available,8000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,978,184,No,No,Intermediate,1,C,5620,2000,4.4,48k,Low,Yes,1,specific time,15000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,6k,270,No,No,Intermediate,1,B,5620,8472,4.5,25k,Low,Yes,5,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.5,2k,150,Yes,Yes,Advance,2,A,8796,20000,4.8,65k,High,Yes,2,24X7,56000
+Great Learning,High,Python,Pune,Both,Yes,4.5,23k,120,Yes,No,Intermediate,2,A,7600,50000,4.4,50k,High,Yes,2,24X7,100000
+Edvancer,Medium,Data science,Hyderabad,Offline,No,4.6,1548,200,Yes,Yes,Advance,2,B,5620,5600,4.8,84k,Medium,No,0,Not available,5000
+Edvancer,Medium,Cloud Computing,Mumbai,Both,Yes,4.4,978,270,Yes,Yes,Beginners,1,A,5620,4687,4.4,48k,High,Yes,1,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,6k,150,Yes,Yes,Intermediate,1,B,5620,4687,4.3,25k,Low,Yes,2,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,1548,270,Yes,No,Beginners,4,B,4500,5600,4.9,65k,High,Yes,6,specific time,15000
+Edvancer,Medium,Python,Pune,Both,Yes,4.4,6k,60,Yes,No,Intermediate,4,A,6822,8472,4.4,84k,High,Yes,6,24X7,100000
+Great Learning,High,Cloud Computing,Pune,Both,Yes,4.8,8k,200,Yes,Yes,Intermediate,4,A,6822,50000,4.5,68k,High,Yes,1,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,6k,150,No,Yes,Intermediate,1,C,7600,5600,4.8,65k,Low,Yes,5,24X7,100000
+Great Learning,High,Python,Chennai,Both,Yes,4.5,6k,120,Yes,No,Beginners,3,B,8796,20000,4.5,94k,High,Yes,3,specific time,56000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.5,2k,150,Yes,Yes,Intermediate,1,A,6822,74000,4.4,68k,High,Yes,5,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,978,184,Yes,Yes,Beginners,3,A,4500,20000,4.5,84k,High,Yes,5,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,1548,150,No,No,Beginners,1,B,4500,8472,4.5,65k,Low,Yes,3,specific time,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,6k,150,Yes,Yes,Intermediate,1,B,4500,2000,4.4,50k,Low,Yes,2,24X7,100000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,1548,200,Yes,No,Intermediate,2,B,1200,20000,4.8,84k,Medium,Yes,1,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,2k,200,Yes,Yes,Beginners,4,B,8796,4687,4.5,48k,Medium,Yes,3,specific time,10000
+Udemy,High,Data science,Online mode only,Online,Yes,4.8,6k,60,No,Yes,Beginners,3,B,1200,20000,4.3,84k,Medium,Yes,6,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,270,Yes,Yes,Beginners,2,B,4500,4687,4.6,25k,Low,Yes,5,24X7,100000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.6,1548,270,Yes,Yes,Advance,2,B,4567,5600,4.6,48k,High,Yes,1,24X7,56000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,2k,200,Yes,No,Intermediate,4,B,7600,5600,4.3,50k,High,Yes,6,24X7,56000
+Edvancer,Medium,Tableau,Mumbai,Both,Yes,4.6,1548,270,Yes,No,Intermediate,1,A,7600,5600,4.6,48k,High,Yes,5,24X7,100000
+Edvancer,Medium,Cloud Computing,Hyderabad,Offline,No,4.8,1548,120,Yes,Yes,Intermediate,3,A,5620,4687,4.6,94k,Medium,No,0,Not available,30000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.5,1548,150,Yes,Yes,Beginners,4,A,4500,5600,4.4,50k,High,Yes,6,specific time,10000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,2k,200,Yes,Yes,Advance,4,A,4500,50000,4.4,48k,High,Yes,3,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,6k,200,Yes,Yes,Beginners,1,B,7600,4687,4.8,48k,Low,Yes,2,specific time,10000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,184,No,No,Intermediate,2,C,7600,8472,4.4,65k,Low,Yes,3,24X7,100000
+Great Learning,High,Cloud Computing,Hyderabad,Both,Yes,4.6,6k,184,Yes,Yes,Advance,1,B,5620,74000,4.3,50k,High,Yes,1,specific time,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,150,Yes,No,Beginners,4,B,4500,20000,4.9,50k,High,Yes,6,specific time,15000
+360DigiTMG,High,Python,Pune,Both,Yes,4.5,978,60,Yes,No,Beginners,2,B,4500,20000,4.3,84k,High,Yes,5,specific time,56000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.8,50k,60,Yes,Yes,Beginners,10,B,7600,50000,4.4,68k,High,Yes,1,24X7,100000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.5,50k,120,Yes,Yes,Advance,3,B,7600,20000,4.9,65k,High,Yes,2,24X7,100000
+Great Learning,High,Data science,Mumbai,Both,Yes,4.5,978,150,Yes,Yes,Advance,2,A,5620,20000,4.3,68k,High,Yes,5,specific time,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,6k,150,Yes,No,Beginners,3,A,1200,20000,4.6,84k,Medium,Yes,6,specific time,15000
+Great Learning,High,Cloud Computing,Pune,Both,Yes,4.5,23k,150,Yes,Yes,Intermediate,1,B,4567,74000,4.9,94k,High,Yes,2,24X7,56000
+Great Learning,High,Tableau,Mumbai,Both,Yes,4.6,23k,150,Yes,Yes,Beginners,4,B,5620,50000,4.4,94k,High,Yes,6,24X7,56000
+Udemy,High,Data science,Online mode only,Online,Yes,4.6,1548,150,Yes,Yes,Intermediate,3,A,1200,20000,4.5,48k,High,Yes,2,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,978,270,Yes,No,Beginners,2,A,8796,8472,4.4,68k,High,Yes,1,24X7,100000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.5,978,200,Yes,Yes,Intermediate,3,B,7600,8472,4.9,84k,High,Yes,6,specific time,10000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.8,2k,150,Yes,Yes,Intermediate,1,A,5620,8472,4.5,65k,High,Yes,2,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,978,150,Yes,No,Beginners,4,B,8796,2000,4.4,48k,Medium,Yes,6,specific time,10000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.6,2k,184,Yes,No,Intermediate,1,B,7600,5600,4.3,65k,High,Yes,3,specific time,10000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.6,978,184,Yes,No,Beginners,4,B,6822,5600,4.5,84k,High,Yes,6,specific time,30000
+Great Learning,High,Tableau,Chennai,Both,Yes,4.8,23k,184,Yes,Yes,Intermediate,3,B,8796,74000,4.9,94k,High,Yes,6,24X7,100000
+Great Learning,High,Data science,Bengaluru,Both,Yes,4.8,12k,270,Yes,Yes,Beginners,2,A,5620,74000,4.8,68k,High,Yes,3,specific time,56000
+Great Learning,High,Python,Hyderabad,Both,Yes,4.5,2k,150,Yes,No,Beginners,1,B,7600,50000,4.5,84k,High,Yes,3,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,184,Yes,No,Intermediate,1,B,5620,5600,4.4,48k,High,Yes,6,specific time,15000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.6,978,120,Yes,No,Beginners,4,B,7600,20000,4.4,84k,High,Yes,5,specific time,30000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.4,978,184,Yes,Yes,Advance,3,B,7600,2000,4.6,68k,Medium,No,0,Not available,5000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,1548,60,Yes,No,Beginners,1,C,8796,4687,4.9,25k,Low,Yes,3,specific time,10000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,2k,60,Yes,No,Intermediate,4,A,8796,5600,4.8,50k,Medium,Yes,6,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,60,Yes,Yes,Intermediate,1,B,8796,8472,4.6,84k,Medium,Yes,2,specific time,15000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.4,2k,120,Yes,No,Intermediate,2,B,6822,4687,4.4,68k,Medium,Yes,1,24X7,56000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,2k,120,Yes,Yes,Intermediate,1,A,5620,5600,4.9,50k,High,Yes,1,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.8,2k,184,Yes,Yes,Beginners,4,A,7600,5600,4.3,48k,High,Yes,1,24X7,56000
+Great Learning,High,Python,Chennai,Both,Yes,4.8,12k,120,Yes,No,Beginners,1,A,6822,50000,4.8,68k,High,Yes,6,24X7,150000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,120,Yes,No,Beginners,4,B,8796,20000,4.9,68k,High,Yes,1,specific time,15000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,1548,150,No,No,Intermediate,1,C,7600,4687,4.9,48k,Low,Yes,2,specific time,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.5,8k,150,Yes,No,Intermediate,4,B,1200,50000,4.3,84k,Medium,Yes,5,specific time,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,6k,200,No,Yes,Beginners,2,B,7600,2000,4.4,25k,Low,Yes,6,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,120,Yes,Yes,Intermediate,1,A,8796,2000,4.6,84k,Medium,Yes,3,24X7,100000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,1548,150,Yes,Yes,Intermediate,1,A,8796,8472,4.4,48k,High,Yes,2,24X7,100000
+Great Learning,High,Tableau,Chennai,Both,Yes,4.8,6k,120,Yes,Yes,Beginners,10,B,8796,50000,4.6,65k,High,Yes,1,24X7,56000
+Edvancer,Medium,Python,Delhi,Both,Yes,4.5,978,270,Yes,No,Beginners,4,A,7600,2000,4.3,94k,Medium,Yes,6,specific time,10000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,978,60,Yes,No,Beginners,4,A,4500,20000,4.6,84k,Medium,Yes,3,24X7,56000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,1548,200,Yes,No,Advance,1,A,5620,2000,4.9,48k,Medium,Yes,1,specific time,15000
+Great Learning,High,Cloud Computing,Delhi,Both,Yes,4.5,23k,60,Yes,Yes,Advance,1,B,5620,50000,4.6,84k,High,Yes,2,24X7,56000
+Edvancer,Medium,Tableau,Chennai,Both,Yes,4.8,978,200,Yes,Yes,Intermediate,3,B,5620,5600,4.4,48k,High,Yes,5,specific time,10000
+Great Learning,High,Python,Pune,Both,Yes,4.5,2k,200,Yes,No,Beginners,1,A,6822,74000,4.6,94k,High,Yes,3,specific time,10000
+Edvancer,Medium,Python,Hyderabad,Offline,No,4.6,8k,200,Yes,No,Beginners,2,B,5620,2000,4.3,68k,High,Yes,5,24X7,56000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.8,1548,184,Yes,No,Intermediate,1,A,7600,5600,4.4,48k,High,Yes,1,24X7,100000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,1548,184,Yes,Yes,Beginners,1,B,7600,20000,4.5,48k,High,Yes,6,specific time,30000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,1548,184,Yes,Yes,Advance,4,A,1200,50000,4.6,50k,Medium,Yes,2,specific time,30000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.5,1548,60,Yes,No,Beginners,4,A,7600,8472,4.3,65k,High,No,0,Not available,30000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,6k,184,Yes,Yes,Beginners,2,C,7600,5600,4.8,25k,Low,Yes,5,specific time,15000
+Edvancer,Medium,Cloud Computing,Mumbai,Both,Yes,4.8,12k,270,Yes,Yes,Advance,3,B,8796,8472,4.3,68k,High,No,0,Not available,8000
+Edvancer,Medium,Cloud Computing,Chennai,Both,Yes,4.8,2k,60,Yes,Yes,Beginners,1,A,6822,4687,4.6,84k,High,No,0,Not available,5000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.8,8k,184,Yes,No,Intermediate,3,B,7600,5600,4.8,50k,Medium,No,0,Not available,8000
+Edvancer,Medium,Tableau,Bengaluru,Both,Yes,4.8,2k,120,Yes,Yes,Beginners,2,A,4500,5600,4.8,84k,Medium,No,0,Not available,8000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,1548,270,Yes,Yes,Intermediate,4,A,7600,5600,4.8,48k,Medium,Yes,2,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,184,Yes,Yes,Intermediate,4,A,8796,2000,4.4,50k,High,Yes,3,24X7,100000
+Udemy,High,Data science,Online mode only,Online,Yes,4.4,6k,270,No,Yes,Intermediate,3,B,4500,50000,4.8,48k,High,Yes,2,specific time,30000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,270,Yes,No,Intermediate,3,A,5620,4687,4.8,65k,High,Yes,3,specific time,56000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.4,978,150,Yes,Yes,Intermediate,3,A,7600,8472,4.6,68k,High,Yes,2,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.8,50k,200,No,No,Intermediate,2,B,1200,50000,4.3,84k,Medium,Yes,3,specific time,56000
+Edvancer,Medium,Artificial Intelligence,Hyderabad,Offline,No,4.6,6k,60,Yes,Yes,Advance,2,A,7600,2000,4.3,94k,Medium,No,0,Not available,30000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,978,184,Yes,Yes,Beginners,3,A,4500,5600,4.8,68k,High,Yes,5,specific time,56000
+Udemy,High,Python,Online mode only,Online,Yes,4.5,1548,120,No,No,Beginners,4,A,1200,20000,4.5,84k,Medium,Yes,6,24X7,100000
+Edvancer,Medium,Tableau,Chennai,Both,Yes,4.5,2k,150,Yes,Yes,Intermediate,1,A,7600,8472,4.8,65k,High,Yes,3,24X7,56000
+Edvancer,Medium,Tableau,Hyderabad,Offline,No,4.6,12k,270,Yes,Yes,Intermediate,2,B,5620,4687,4.3,65k,Medium,No,0,Not available,8000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.8,2k,184,Yes,Yes,Beginners,4,B,7600,5600,4.8,84k,High,Yes,1,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.8,2k,150,Yes,No,Beginners,4,A,4500,20000,4.9,50k,High,Yes,2,24X7,56000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.6,978,184,Yes,Yes,Intermediate,2,B,5620,20000,4.9,65k,High,Yes,3,24X7,56000
+Great Learning,High,Data science,Pune,Both,Yes,4.8,12k,270,Yes,Yes,Advance,2,B,4567,20000,4.5,65k,High,Yes,3,specific time,30000
+Edvancer,Medium,Python,Bengaluru,Both,Yes,4.4,1548,270,Yes,No,Beginners,2,A,7600,2000,4.4,94k,Medium,Yes,1,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,978,200,Yes,Yes,Advance,3,B,4500,8472,4.9,84k,High,Yes,6,24X7,56000
+Edvancer,Medium,Cloud Computing,Chennai,Both,Yes,4.6,978,60,Yes,Yes,Beginners,4,A,5620,8472,4.4,94k,High,No,0,Not available,8000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.8,978,200,No,Yes,Advance,2,B,4500,20000,4.6,84k,High,Yes,2,24X7,56000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.6,50k,184,Yes,No,Intermediate,3,A,1200,50000,4.3,48k,Medium,Yes,2,specific time,10000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,2k,150,No,No,Beginners,1,B,1200,50000,4.5,48k,High,Yes,2,specific time,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,200,Yes,Yes,Advance,4,B,7600,20000,4.9,48k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,60,Yes,No,Intermediate,3,B,7600,2000,4.3,48k,High,Yes,1,24X7,56000
+Udemy,High,Python,Online mode only,Online,Yes,4.5,8k,270,No,No,Beginners,3,B,4500,50000,4.6,48k,Medium,Yes,5,specific time,10000
+Edvancer,Medium,Cloud Computing,Delhi,Both,Yes,4.5,12k,270,Yes,Yes,Advance,2,A,7600,8472,4.9,68k,High,Yes,1,24X7,56000
+Udemy,High,Data science,Online mode only,Online,Yes,4.4,23k,200,Yes,Yes,Intermediate,1,B,4500,20000,4.8,48k,High,Yes,5,specific time,10000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,978,150,Yes,No,Advance,1,B,7600,20000,4.9,68k,Medium,Yes,3,specific time,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,200,Yes,No,Intermediate,4,B,5620,20000,4.5,65k,Medium,Yes,6,24X7,56000
+Great Learning,High,Tableau,Hyderabad,Both,Yes,4.8,50k,200,Yes,No,Intermediate,1,B,4500,20000,4.9,65k,High,Yes,1,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,2k,270,No,No,Beginners,3,A,4500,20000,4.5,48k,High,Yes,5,specific time,30000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,978,270,Yes,Yes,Beginners,1,A,5620,5600,4.3,68k,High,Yes,5,specific time,15000
+Udemy,High,Python,Online mode only,Online,Yes,4.6,978,200,No,No,Beginners,3,B,1200,50000,4.3,50k,High,Yes,3,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,120,Yes,Yes,Advance,2,B,5620,4687,4.3,50k,High,Yes,3,specific time,56000
+Edvancer,Medium,Python,Mumbai,Both,Yes,4.5,8k,270,Yes,No,Intermediate,4,A,5620,8472,4.9,84k,Medium,Yes,5,specific time,15000
+Edvancer,Medium,Cloud Computing,Bengaluru,Both,Yes,4.6,12k,200,Yes,Yes,Intermediate,3,B,7600,20000,4.8,65k,Medium,Yes,1,24X7,100000
+Great Learning,High,Python,Delhi,Both,Yes,4.6,23k,270,Yes,No,Intermediate,3,B,7600,20000,4.5,68k,High,Yes,3,specific time,30000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,978,120,Yes,Yes,Beginners,3,B,7600,2000,4.9,48k,Medium,Yes,1,24X7,56000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.6,1548,200,Yes,Yes,Advance,3,B,8796,8472,4.3,50k,High,Yes,5,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,2k,60,No,No,Intermediate,1,A,4500,50000,4.5,48k,Medium,Yes,5,24X7,56000
+Edvancer,Medium,Tableau,Bengaluru,Both,Yes,4.5,12k,120,Yes,No,Beginners,1,A,8796,4687,4.9,94k,Medium,No,0,Not available,5000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,1548,120,Yes,No,Intermediate,2,C,4500,5600,4.8,48k,Low,Yes,6,24X7,100000
+Great Learning,High,Tableau,Bengaluru,Both,Yes,4.6,6k,120,Yes,No,Intermediate,3,B,7600,74000,4.5,68k,High,Yes,3,specific time,15000
+Great Learning,High,Java,Hyderabad,Both,Yes,4.5,12k,60,Yes,No,Beginners,10,B,4500,20000,4.6,68k,High,Yes,6,specific time,15000
+Edvancer,Medium,Artificial Intelligence,Bengaluru,Both,Yes,4.5,6k,60,Yes,No,Beginners,1,B,8796,8472,4.6,65k,Medium,No,0,Not available,10000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.5,1548,200,Yes,Yes,Beginners,3,B,7600,8472,4.8,50k,High,Yes,6,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.5,978,200,Yes,No,Advance,2,A,4567,20000,4.4,65k,High,Yes,5,specific time,30000
+Edvancer,Medium,Cloud Computing,Pune,Both,Yes,4.8,6k,184,Yes,Yes,Advance,2,A,7600,4687,4.5,50k,Medium,Yes,2,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,1548,184,No,No,Intermediate,2,C,7600,2000,4.3,48k,Low,Yes,1,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,270,No,No,Intermediate,2,C,8796,5600,4.8,48k,Low,Yes,1,specific time,15000
+Edvancer,Medium,Java,Bengaluru,Both,Yes,4.8,6k,200,Yes,No,Beginners,1,A,8796,4687,4.3,84k,Medium,Yes,1,specific time,56000
+Edvancer,Medium,Python,Delhi,Both,Yes,4.8,978,270,Yes,No,Beginners,2,B,5620,20000,4.4,84k,High,No,0,Not available,30000
+Udemy,High,Python,Online mode only,Online,Yes,4.6,12k,60,Yes,No,Beginners,2,B,4500,20000,4.6,50k,High,Yes,2,specific time,30000
+Edvancer,Medium,Java,Bengaluru,Both,Yes,4.4,978,150,Yes,No,Beginners,3,B,5620,5600,4.8,94k,High,No,0,Not available,8000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.5,12k,200,Yes,Yes,Beginners,2,A,7600,20000,4.6,84k,High,Yes,1,specific time,10000
+Edvancer,Medium,Java,Chennai,Both,Yes,4.8,978,184,Yes,No,Beginners,2,A,6822,20000,4.5,50k,Medium,No,0,Not available,30000
+Udemy,High,Data science,Online mode only,Online,Yes,4.8,2k,60,Yes,Yes,Advance,3,A,4500,50000,4.4,50k,High,Yes,3,24X7,150000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.5,2k,184,Yes,No,Intermediate,3,B,5620,20000,4.4,48k,High,Yes,6,specific time,56000
+Edvancer,Medium,Java,Chennai,Both,Yes,4.6,8k,184,Yes,No,Intermediate,3,A,7600,2000,4.4,50k,High,Yes,6,specific time,10000
+Edvancer,Medium,Java,Chennai,Both,Yes,4.4,1548,200,Yes,No,Intermediate,4,A,7600,4687,4.3,65k,Medium,No,0,Not available,10000
+Great Learning,High,Cloud Computing,Mumbai,Both,Yes,4.8,8k,270,Yes,Yes,Intermediate,1,A,5620,20000,4.4,65k,High,Yes,3,specific time,10000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,978,150,Yes,Yes,Beginners,3,A,4500,8472,4.6,65k,High,Yes,1,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,2k,270,Yes,No,Intermediate,2,B,5620,8472,4.8,68k,High,Yes,1,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,1548,60,Yes,No,Beginners,3,A,8796,8472,4.9,50k,Medium,Yes,5,24X7,100000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.8,1548,150,Yes,No,Intermediate,1,A,4567,2000,4.4,84k,High,No,0,Not available,8000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,2k,150,No,No,Intermediate,2,C,7600,2000,4.9,48k,Low,Yes,5,specific time,30000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,8k,200,No,Yes,Advance,1,A,1200,20000,4.6,50k,Medium,Yes,2,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.8,2k,270,Yes,No,Beginners,3,B,4500,20000,4.4,50k,High,Yes,1,specific time,10000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,2k,270,Yes,No,Beginners,2,B,8796,4687,4.8,65k,Medium,Yes,3,24X7,150000
+Udemy,High,Data science,Online mode only,Online,Yes,4.6,1548,150,Yes,Yes,Intermediate,2,B,4500,50000,4.6,68k,Medium,Yes,5,specific time,30000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,60,Yes,Yes,Beginners,4,A,4500,20000,4.5,84k,Medium,Yes,2,24X7,56000
+Great Learning,High,Python,Mumbai,Both,Yes,4.8,50k,200,Yes,No,Intermediate,2,A,7600,20000,4.6,94k,High,Yes,1,24X7,100000
+Edvancer,Medium,Data science,Chennai,Both,Yes,4.6,6k,60,Yes,Yes,Beginners,2,B,6822,2000,4.3,84k,High,Yes,2,specific time,30000
+Great Learning,High,Python,Pune,Both,Yes,4.8,978,150,Yes,No,Intermediate,3,A,8796,50000,4.3,65k,High,Yes,6,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,2k,150,Yes,Yes,Intermediate,2,B,7600,8472,4.5,68k,High,Yes,5,24X7,56000
+Great Learning,High,Tableau,Mumbai,Both,Yes,4.5,1548,270,Yes,Yes,Intermediate,10,A,6822,74000,4.5,65k,High,Yes,1,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,978,184,Yes,No,Intermediate,2,B,5620,20000,4.5,65k,Medium,Yes,3,specific time,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,2k,150,Yes,No,Intermediate,3,A,7600,8472,4.9,68k,High,Yes,6,specific time,15000
+Udemy,High,Python,Online mode only,Online,Yes,4.5,23k,150,Yes,No,Beginners,3,B,4500,20000,4.6,68k,Medium,Yes,2,specific time,10000
+Edvancer,Medium,Tableau,Hyderabad,Offline,No,4.6,6k,150,Yes,Yes,Beginners,3,A,7600,2000,4.4,50k,High,Yes,1,24X7,100000
+Edvancer,Medium,Data science,Bengaluru,Both,Yes,4.4,978,60,Yes,Yes,Beginners,4,B,4500,2000,4.6,94k,Medium,Yes,6,24X7,100000
+Great Learning,High,Artificial Intelligence,Pune,Both,Yes,4.8,50k,184,Yes,Yes,Beginners,1,A,4500,50000,4.9,68k,High,Yes,3,specific time,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,1548,270,Yes,Yes,Beginners,3,A,5620,20000,4.5,84k,Medium,Yes,6,24X7,56000
+360DigiTMG,High,Python,Pune,Both,Yes,4.5,1548,184,Yes,No,Intermediate,3,B,4500,5600,4.8,48k,High,Yes,1,specific time,10000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.8,1548,200,Yes,No,Beginners,3,A,4500,5600,4.5,84k,High,Yes,1,specific time,30000
+Edvancer,Medium,Artificial Intelligence,Hyderabad,Offline,No,4.8,1548,200,Yes,Yes,Advance,2,A,7600,2000,4.5,50k,Medium,Yes,3,specific time,30000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,978,120,Yes,No,Beginners,3,A,7600,4687,4.4,50k,High,Yes,6,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,150,Yes,No,Intermediate,2,B,7600,5600,4.8,65k,Low,Yes,2,24X7,150000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,2k,184,Yes,Yes,Intermediate,1,B,4500,5600,4.5,25k,Low,Yes,3,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,2k,60,Yes,No,Intermediate,3,A,4500,2000,4.6,84k,Medium,Yes,5,24X7,100000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,1548,120,Yes,No,Beginners,2,B,7600,5600,4.8,50k,High,Yes,2,24X7,100000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,6k,184,Yes,Yes,Beginners,4,B,4500,50000,4.5,50k,Medium,Yes,3,24X7,150000
+Edvancer,Medium,Java,Chennai,Both,Yes,4.5,8k,270,Yes,No,Intermediate,1,B,8796,4687,4.8,50k,Medium,No,0,Not available,8000
+Edvancer,Medium,Artificial Intelligence,Mumbai,Both,Yes,4.4,12k,200,Yes,No,Beginners,1,A,6822,5600,4.6,84k,Medium,No,0,Not available,8000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.5,6k,184,No,No,Advance,1,B,1200,20000,4.3,50k,Medium,Yes,6,specific time,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,120,Yes,Yes,Beginners,1,C,5620,5600,4.5,65k,Low,Yes,5,24X7,56000
+Great Learning,High,Data science,Pune,Both,Yes,4.5,2k,60,Yes,Yes,Advance,1,B,6822,74000,4.8,68k,High,Yes,3,specific time,30000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,120,No,Yes,Advance,2,C,5620,8472,4.9,65k,Low,Yes,3,specific time,56000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.6,6k,60,Yes,No,Intermediate,2,B,5620,4687,4.6,50k,Medium,No,0,Not available,8000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,2k,184,Yes,Yes,Intermediate,2,C,4500,4687,4.8,25k,Low,Yes,2,specific time,10000
+Edvancer,Medium,Tableau,Delhi,Both,Yes,4.5,978,270,Yes,Yes,Beginners,4,A,8796,20000,4.4,50k,Medium,No,0,Not available,8000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,6k,200,Yes,Yes,Beginners,3,B,4500,20000,4.5,84k,High,Yes,1,24X7,100000
+360DigiTMG,High,Python,Pune,Both,Yes,4.6,978,200,Yes,No,Beginners,1,B,4567,20000,4.4,50k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,150,Yes,Yes,Advance,4,B,7600,8472,4.6,48k,Medium,Yes,5,24X7,56000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.8,1548,184,Yes,No,Advance,3,B,1200,20000,4.3,65k,Medium,Yes,3,specific time,30000
+Edvancer,Medium,Java,Delhi,Both,Yes,4.5,6k,184,Yes,No,Beginners,3,A,8796,8472,4.3,94k,Medium,Yes,3,24X7,100000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,2k,184,Yes,No,Beginners,4,B,8796,8472,4.3,50k,High,Yes,5,specific time,56000
+Great Learning,High,Data science,Chennai,Both,Yes,4.5,12k,270,Yes,Yes,Intermediate,4,B,7600,74000,4.4,68k,High,Yes,6,24X7,100000
+Great Learning,High,Cloud Computing,Hyderabad,Both,Yes,4.6,12k,184,Yes,Yes,Intermediate,3,B,4500,74000,4.3,65k,High,Yes,2,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,270,Yes,Yes,Intermediate,3,A,7600,20000,4.6,48k,Medium,Yes,3,24X7,150000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,8k,270,No,Yes,Intermediate,3,B,4500,50000,4.9,50k,High,Yes,2,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.6,6k,60,Yes,No,Intermediate,3,A,1200,20000,4.6,68k,Medium,Yes,3,24X7,56000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.8,8k,270,Yes,No,Intermediate,4,A,5620,8472,4.3,50k,High,No,0,Not available,5000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,150,Yes,Yes,Advance,2,C,4500,8472,4.4,25k,Low,Yes,5,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,978,150,Yes,No,Beginners,1,B,8796,4687,4.6,50k,Low,Yes,1,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,60,Yes,Yes,Intermediate,1,B,5620,5600,4.9,68k,Medium,Yes,5,24X7,56000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.8,978,150,Yes,No,Intermediate,2,B,8796,5600,4.9,65k,High,Yes,6,specific time,15000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,2k,60,Yes,Yes,Advance,2,A,4500,8472,4.8,84k,Medium,Yes,6,specific time,30000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.4,6k,184,Yes,Yes,Beginners,4,B,4500,50000,4.4,50k,High,Yes,3,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,978,270,Yes,Yes,Beginners,3,B,5620,2000,4.5,84k,High,Yes,2,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,978,200,Yes,Yes,Intermediate,1,A,7600,5600,4.5,50k,Medium,Yes,1,24X7,100000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.5,978,200,Yes,Yes,Advance,1,A,8796,8472,4.3,48k,High,Yes,5,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,1548,200,Yes,No,Intermediate,2,C,7600,2000,4.4,50k,Low,Yes,2,24X7,100000
+Edvancer,Medium,Java,Delhi,Both,Yes,4.5,978,270,Yes,No,Intermediate,4,A,8796,5600,4.6,94k,Medium,No,0,Not available,30000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,12k,150,Yes,No,Intermediate,3,B,1200,20000,4.8,65k,Medium,Yes,1,24X7,150000
+Great Learning,High,Tableau,Chennai,Both,Yes,4.5,8k,60,Yes,No,Intermediate,10,B,7600,74000,4.6,84k,High,Yes,1,specific time,30000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,12k,150,No,Yes,Advance,4,B,1200,50000,4.3,48k,High,Yes,1,24X7,56000
+Great Learning,High,Java,Delhi,Both,Yes,4.8,8k,270,Yes,No,Intermediate,4,B,8796,20000,4.9,94k,High,Yes,6,specific time,10000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,6k,60,No,No,Beginners,4,B,1200,20000,4.9,48k,Medium,Yes,1,24X7,100000
+Great Learning,High,Data science,Pune,Both,Yes,4.8,8k,200,Yes,Yes,Intermediate,2,B,5620,20000,4.8,50k,High,Yes,1,specific time,56000
+Great Learning,High,Java,Chennai,Both,Yes,4.6,23k,184,Yes,No,Beginners,10,B,8796,74000,4.3,65k,High,Yes,5,specific time,15000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,978,270,Yes,No,Intermediate,3,B,5620,4687,4.4,84k,Medium,Yes,5,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,6k,184,No,No,Beginners,1,B,8796,5600,4.3,25k,Low,Yes,2,24X7,56000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.6,1548,184,Yes,Yes,Intermediate,1,B,5620,20000,4.3,68k,High,Yes,2,24X7,56000
+Edvancer,Medium,Java,Pune,Both,Yes,4.6,6k,184,Yes,No,Intermediate,1,B,8796,4687,4.8,48k,High,No,0,Not available,5000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,60,Yes,No,Beginners,4,A,5620,4687,4.9,48k,High,Yes,2,specific time,10000
+Edvancer,Medium,Data science,Mumbai,Both,Yes,4.5,6k,200,Yes,Yes,Advance,3,B,5620,5600,4.9,48k,High,Yes,2,24X7,150000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.5,2k,150,Yes,Yes,Intermediate,3,A,8796,5600,4.4,65k,High,Yes,1,24X7,150000
+Edvancer,Medium,Python,Mumbai,Both,Yes,4.6,8k,60,Yes,No,Intermediate,3,B,8796,5600,4.9,84k,High,Yes,3,24X7,100000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.8,6k,150,Yes,Yes,Intermediate,2,B,8796,50000,4.6,94k,High,Yes,2,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,60,No,Yes,Intermediate,2,C,4500,4687,4.5,65k,Low,Yes,1,specific time,10000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,2k,150,Yes,No,Intermediate,4,B,8796,8472,4.5,68k,High,Yes,1,specific time,10000
+Udemy,High,Java,Online mode only,Online,Yes,4.8,23k,200,Yes,No,Beginners,2,A,1200,20000,4.5,48k,High,Yes,6,specific time,15000
+Great Learning,High,Data science,Mumbai,Both,Yes,4.5,23k,150,Yes,Yes,Intermediate,4,A,5620,74000,4.9,50k,High,Yes,5,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.6,978,200,Yes,No,Advance,3,A,8796,20000,4.5,48k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,978,150,Yes,Yes,Advance,2,A,7600,4687,4.3,65k,Medium,Yes,6,specific time,10000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.8,2k,200,Yes,Yes,Intermediate,4,B,4567,5600,4.4,68k,High,Yes,2,specific time,10000
+Edvancer,Medium,Python,Pune,Both,Yes,4.5,6k,184,Yes,No,Beginners,1,A,8796,2000,4.3,84k,Medium,Yes,1,specific time,30000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.8,1548,184,Yes,No,Beginners,2,B,4500,5600,4.3,68k,High,Yes,1,24X7,56000
+Great Learning,High,Python,Delhi,Both,Yes,4.5,978,184,Yes,No,Intermediate,3,B,5620,20000,4.8,68k,High,Yes,5,24X7,150000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,978,184,Yes,No,Intermediate,1,B,8796,5600,4.4,50k,Low,Yes,1,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,978,184,Yes,No,Intermediate,4,B,7600,20000,4.6,48k,Medium,Yes,3,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.6,2k,120,Yes,No,Beginners,4,B,7600,20000,4.8,50k,High,Yes,6,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,1548,60,No,No,Intermediate,1,C,7600,5600,4.9,25k,Low,Yes,1,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,2k,184,Yes,No,Beginners,4,A,4500,5600,4.5,48k,High,Yes,1,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,978,150,Yes,No,Beginners,1,B,4500,20000,4.4,50k,Medium,Yes,5,specific time,15000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,50k,120,No,No,Intermediate,2,B,4500,20000,4.5,50k,High,Yes,3,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,120,Yes,No,Intermediate,2,C,4500,5600,4.4,65k,Low,Yes,1,specific time,15000
+Great Learning,High,Python,Mumbai,Both,Yes,4.5,1548,120,Yes,No,Intermediate,10,A,6822,50000,4.6,50k,High,Yes,3,specific time,10000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.6,2k,120,Yes,No,Beginners,1,B,5620,5600,4.5,65k,High,Yes,3,specific time,15000
+Great Learning,High,Python,Delhi,Both,Yes,4.6,978,150,Yes,No,Intermediate,2,A,8796,74000,4.6,84k,High,Yes,5,24X7,100000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.5,2k,60,Yes,No,Beginners,1,B,7600,20000,4.4,68k,High,Yes,2,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,150,No,No,Intermediate,2,B,8796,8472,4.8,65k,Low,Yes,5,24X7,150000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.8,978,200,Yes,Yes,Beginners,4,B,7600,20000,4.5,50k,High,Yes,2,specific time,10000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,1548,60,Yes,No,Intermediate,3,B,5620,5600,4.5,68k,Medium,Yes,3,specific time,15000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,978,270,Yes,No,Beginners,1,C,7600,2000,4.8,48k,Low,Yes,1,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,2k,270,Yes,No,Beginners,4,B,4500,20000,4.6,50k,High,Yes,1,specific time,15000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.6,978,60,Yes,Yes,Beginners,1,B,5620,5600,4.5,50k,High,Yes,5,24X7,150000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,978,120,Yes,No,Beginners,1,A,7600,5600,4.6,68k,High,Yes,5,24X7,150000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,2k,120,Yes,No,Intermediate,3,A,8796,20000,4.4,84k,High,Yes,5,specific time,10000
+Great Learning,High,Artificial Intelligence,Hyderabad,Both,Yes,4.6,6k,60,Yes,No,Advance,10,B,7600,74000,4.6,50k,High,Yes,1,24X7,100000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.8,2k,120,Yes,No,Intermediate,1,B,4500,20000,4.5,65k,High,Yes,3,24X7,150000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.6,2k,184,Yes,Yes,Intermediate,2,B,5620,5600,4.9,65k,High,Yes,2,24X7,100000
+Edvancer,Medium,Tableau,Delhi,Both,Yes,4.8,1548,184,Yes,Yes,Intermediate,3,A,7600,5600,4.5,94k,Medium,No,0,Not available,5000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,23k,200,No,Yes,Advance,2,A,4500,50000,4.3,84k,Medium,Yes,6,specific time,30000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,1548,150,Yes,No,Intermediate,3,A,5620,2000,4.9,65k,High,Yes,1,specific time,10000
+Great Learning,High,Cloud Computing,Bengaluru,Both,Yes,4.6,978,270,Yes,Yes,Intermediate,10,B,8796,20000,4.6,84k,High,Yes,3,24X7,100000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,978,200,Yes,No,Intermediate,2,B,8796,8472,4.5,84k,High,Yes,3,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.8,1548,150,Yes,Yes,Intermediate,2,A,7600,8472,4.9,68k,High,Yes,5,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,2k,200,Yes,Yes,Beginners,1,A,4500,8472,4.5,50k,High,Yes,6,24X7,100000
+Udemy,High,Data science,Online mode only,Online,Yes,4.6,6k,150,No,Yes,Intermediate,1,A,4500,20000,4.8,65k,Medium,Yes,6,24X7,100000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.5,2k,200,Yes,No,Intermediate,2,A,6822,8472,4.5,84k,Medium,Yes,1,specific time,15000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,6k,60,No,No,Beginners,1,C,4500,8472,4.6,48k,Low,Yes,2,specific time,15000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,1548,184,No,No,Beginners,1,B,7600,4687,4.3,25k,Low,Yes,2,24X7,100000
+Udemy,High,Python,Online mode only,Online,Yes,4.4,23k,60,Yes,No,Intermediate,4,B,4500,50000,4.8,50k,Medium,Yes,1,24X7,100000
+Great Learning,High,Tableau,Hyderabad,Both,Yes,4.8,23k,184,Yes,No,Beginners,1,B,8796,50000,4.4,94k,High,Yes,2,24X7,100000
+Great Learning,High,Cloud Computing,Delhi,Both,Yes,4.6,1548,60,Yes,Yes,Beginners,10,B,8796,20000,4.3,94k,High,Yes,3,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,6k,120,No,No,Beginners,1,B,7600,8472,4.8,48k,Low,Yes,1,24X7,100000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,1548,120,Yes,No,Intermediate,3,B,4500,8472,4.4,68k,High,Yes,1,specific time,10000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,1548,60,Yes,Yes,Intermediate,3,B,4567,20000,4.9,84k,High,Yes,5,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,2k,150,Yes,No,Beginners,2,B,7600,5600,4.9,50k,High,Yes,3,specific time,56000
+Edvancer,Medium,Tableau,Delhi,Both,Yes,4.4,12k,60,Yes,No,Intermediate,3,B,5620,2000,4.8,50k,High,Yes,1,specific time,15000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.6,50k,200,Yes,Yes,Beginners,4,B,8796,20000,4.4,84k,High,Yes,2,specific time,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,150,Yes,Yes,Intermediate,2,B,8796,5600,4.4,50k,Low,Yes,3,specific time,10000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,23k,184,No,Yes,Intermediate,3,A,1200,20000,4.5,68k,High,Yes,5,specific time,15000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.8,50k,270,No,Yes,Advance,2,B,4500,20000,4.5,68k,Medium,Yes,2,specific time,56000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,978,270,Yes,No,Beginners,3,B,8796,8472,4.6,48k,High,Yes,2,specific time,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,1548,120,Yes,Yes,Advance,1,B,4567,5600,4.8,68k,High,Yes,3,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,150,Yes,Yes,Beginners,4,B,8796,8472,4.8,48k,High,Yes,3,24X7,150000
+Great Learning,High,Data science,Mumbai,Both,Yes,4.8,1548,120,Yes,Yes,Intermediate,10,A,6822,20000,4.4,84k,High,Yes,5,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,6k,184,Yes,No,Beginners,1,B,7600,8472,4.3,48k,Low,Yes,6,24X7,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.8,1548,60,Yes,Yes,Beginners,3,B,4567,5600,4.8,65k,High,Yes,3,specific time,10000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,2k,184,Yes,No,Intermediate,1,B,7600,8472,4.6,48k,Low,Yes,3,specific time,10000
+Udemy,High,Python,Online mode only,Online,Yes,4.5,23k,150,Yes,No,Intermediate,2,A,4500,50000,4.6,84k,Medium,Yes,5,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,978,120,Yes,Yes,Beginners,1,B,4500,8472,4.8,50k,Medium,Yes,3,24X7,100000
+Edvancer,Medium,Data science,Hyderabad,Offline,No,4.6,6k,60,Yes,Yes,Intermediate,4,B,8796,4687,4.3,84k,Medium,No,0,Not available,10000
+Great Learning,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,8k,200,Yes,Yes,Beginners,2,A,8796,74000,4.3,94k,High,Yes,6,specific time,15000
+Great Learning,High,Tableau,Hyderabad,Both,Yes,4.5,23k,120,Yes,Yes,Beginners,4,A,7600,20000,4.6,84k,High,Yes,2,24X7,56000
+Great Learning,High,Python,Delhi,Both,Yes,4.6,23k,150,Yes,No,Beginners,1,B,8796,20000,4.5,68k,High,Yes,3,24X7,150000
+Edvancer,Medium,Cloud Computing,Pune,Both,Yes,4.5,8k,120,Yes,Yes,Intermediate,2,A,4567,5600,4.9,50k,Medium,No,0,Not available,30000
+Edvancer,Medium,Cloud Computing,Hyderabad,Offline,No,4.8,978,270,Yes,Yes,Intermediate,2,A,8796,5600,4.5,84k,High,No,0,Not available,8000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,23k,184,No,No,Beginners,1,B,1200,50000,4.6,65k,Medium,Yes,6,24X7,100000
+Great Learning,High,Data science,Hyderabad,Both,Yes,4.5,23k,200,Yes,Yes,Advance,10,A,4567,74000,4.3,94k,High,Yes,6,specific time,30000
+Udemy,High,Data science,Online mode only,Online,Yes,4.8,978,150,Yes,Yes,Beginners,2,B,1200,50000,4.5,84k,High,Yes,3,specific time,30000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,978,150,Yes,No,Beginners,4,A,1200,20000,4.5,68k,Medium,Yes,2,24X7,100000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.5,2k,270,Yes,Yes,Intermediate,4,A,4500,20000,4.8,48k,High,Yes,6,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,60,No,Yes,Advance,2,C,8796,4687,4.4,50k,Low,Yes,3,specific time,15000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.5,978,120,Yes,No,Intermediate,1,B,6822,8472,4.6,68k,High,Yes,6,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.8,1548,270,Yes,Yes,Beginners,2,A,4500,20000,4.6,84k,High,Yes,3,specific time,15000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.5,8k,270,No,No,Beginners,4,B,4500,50000,4.6,65k,Medium,Yes,1,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,1548,184,Yes,Yes,Advance,1,B,7600,8472,4.6,68k,High,Yes,6,24X7,150000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,200,Yes,No,Beginners,4,A,7600,8472,4.6,68k,High,Yes,3,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,1548,150,Yes,Yes,Intermediate,3,A,5620,8472,4.6,65k,High,Yes,2,specific time,10000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.4,2k,120,Yes,Yes,Advance,4,A,4500,20000,4.6,50k,Medium,Yes,3,24X7,100000
+Edvancer,Medium,Python,Pune,Both,Yes,4.5,12k,200,Yes,No,Intermediate,1,B,5620,4687,4.9,84k,High,No,0,Not available,10000
+Edvancer,Medium,Artificial Intelligence,Bengaluru,Both,Yes,4.6,1548,60,Yes,Yes,Intermediate,3,B,5620,2000,4.6,68k,Medium,Yes,1,specific time,15000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,1548,184,Yes,No,Intermediate,1,A,5620,20000,4.9,48k,High,Yes,6,24X7,56000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.5,2k,184,Yes,No,Intermediate,4,B,8796,8472,4.6,48k,Medium,No,0,Not available,8000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.8,6k,200,Yes,No,Beginners,4,A,7600,4687,4.3,94k,High,No,0,Not available,8000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.5,1548,184,Yes,Yes,Intermediate,2,A,8796,5600,4.8,68k,High,Yes,2,specific time,15000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,2k,120,Yes,Yes,Beginners,1,B,4500,20000,4.3,84k,Medium,Yes,1,specific time,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,1548,60,Yes,No,Intermediate,1,A,5620,5600,4.5,48k,Medium,Yes,3,24X7,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,2k,270,Yes,Yes,Advance,1,B,7600,8472,4.6,48k,High,Yes,6,specific time,56000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,23k,120,Yes,No,Beginners,2,B,1200,20000,4.4,68k,High,Yes,5,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,978,270,Yes,No,Intermediate,2,A,5620,4687,4.4,84k,Medium,Yes,5,24X7,150000
+Great Learning,High,Tableau,Mumbai,Both,Yes,4.8,1548,150,Yes,Yes,Intermediate,4,A,6822,50000,4.9,65k,High,Yes,1,specific time,15000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.5,978,184,Yes,Yes,Beginners,2,A,5620,5600,4.3,50k,High,Yes,5,24X7,56000
+Great Learning,High,Java,Hyderabad,Both,Yes,4.8,12k,60,Yes,No,Beginners,3,B,7600,20000,4.4,84k,High,Yes,5,specific time,15000
+Edvancer,Medium,Cloud Computing,Delhi,Both,Yes,4.5,1548,184,Yes,Yes,Advance,1,A,8796,8472,4.5,65k,High,Yes,3,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,6k,60,No,Yes,Beginners,2,C,4500,8472,4.4,48k,Low,Yes,3,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,184,Yes,Yes,Beginners,2,A,5620,5600,4.6,65k,High,Yes,3,specific time,30000
+Edvancer,Medium,Data science,Pune,Both,Yes,4.4,2k,184,Yes,Yes,Beginners,4,A,7600,20000,4.8,84k,High,Yes,2,24X7,56000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.6,2k,120,Yes,Yes,Intermediate,2,B,7600,8472,4.8,84k,High,Yes,3,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,1548,120,Yes,No,Intermediate,3,A,7600,5600,4.9,48k,Medium,Yes,2,24X7,100000
+Great Learning,High,Java,Mumbai,Both,Yes,4.8,1548,270,Yes,No,Beginners,4,B,7600,50000,4.3,50k,High,Yes,5,specific time,30000
+Great Learning,High,Python,Pune,Both,Yes,4.5,8k,120,Yes,No,Intermediate,3,A,4500,50000,4.9,68k,High,Yes,3,specific time,30000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,2k,120,Yes,No,Intermediate,3,A,8796,8472,4.4,68k,High,Yes,2,24X7,100000
+Edvancer,Medium,Python,Pune,Both,Yes,4.6,8k,184,Yes,No,Beginners,4,B,7600,5600,4.8,48k,High,No,0,Not available,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,1548,184,Yes,No,Intermediate,1,B,5620,5600,4.6,50k,Medium,Yes,6,specific time,30000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.8,978,270,Yes,No,Intermediate,1,A,7600,20000,4.3,84k,High,Yes,1,specific time,15000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,978,60,Yes,No,Intermediate,3,A,4500,20000,4.4,84k,High,Yes,3,specific time,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,2k,60,No,No,Intermediate,1,B,8796,5600,4.9,65k,Low,Yes,5,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,120,Yes,No,Intermediate,2,B,7600,8472,4.6,48k,Low,Yes,2,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,120,No,No,Beginners,1,C,8796,4687,4.8,50k,Low,Yes,5,specific time,30000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.6,2k,120,Yes,Yes,Intermediate,4,A,7600,5600,4.3,68k,High,Yes,6,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.6,2k,184,Yes,Yes,Intermediate,4,A,8796,5600,4.4,65k,High,Yes,5,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,978,120,No,Yes,Intermediate,1,A,1200,20000,4.3,65k,Medium,Yes,6,specific time,10000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,150,Yes,No,Intermediate,2,C,8796,4687,4.5,65k,Low,Yes,1,specific time,15000
+Edvancer,Medium,Python,Delhi,Both,Yes,4.8,12k,150,Yes,No,Intermediate,1,A,7600,20000,4.5,68k,Medium,No,0,Not available,8000
+Great Learning,High,Artificial Intelligence,Mumbai,Both,Yes,4.6,8k,120,Yes,Yes,Intermediate,3,A,5620,74000,4.6,65k,High,Yes,2,24X7,100000
+Edvancer,Medium,Cloud Computing,Pune,Both,Yes,4.8,12k,60,Yes,Yes,Beginners,3,A,4567,5600,4.9,84k,High,Yes,2,24X7,56000
+Great Learning,High,Python,Delhi,Both,Yes,4.8,6k,184,Yes,No,Beginners,10,A,5620,20000,4.3,65k,High,Yes,3,specific time,15000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,6k,60,No,No,Intermediate,1,B,5620,8472,4.3,25k,Low,Yes,6,specific time,30000
+Edvancer,Medium,Cloud Computing,Mumbai,Both,Yes,4.6,1548,270,Yes,Yes,Advance,2,B,7600,20000,4.4,84k,Medium,Yes,1,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,978,200,No,No,Intermediate,2,C,5620,2000,4.4,65k,Low,Yes,2,specific time,15000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,978,270,Yes,No,Intermediate,1,B,8796,4687,4.3,65k,Low,Yes,6,specific time,15000
+Edvancer,Medium,Artificial Intelligence,Chennai,Both,Yes,4.6,12k,270,Yes,No,Intermediate,4,B,5620,8472,4.8,65k,Medium,No,0,Not available,10000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.5,8k,184,No,No,Beginners,3,A,1200,50000,4.8,48k,Medium,Yes,3,24X7,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,8k,200,Yes,Yes,Intermediate,3,B,1200,50000,4.8,48k,High,Yes,6,24X7,100000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.6,1548,60,No,Yes,Beginners,3,A,1200,20000,4.5,50k,Medium,Yes,1,24X7,100000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,1548,270,Yes,Yes,Advance,4,A,4500,4687,4.6,65k,High,Yes,6,specific time,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,2k,270,Yes,Yes,Beginners,2,B,8796,20000,4.4,65k,High,Yes,2,specific time,10000
+Edvancer,Medium,Artificial Intelligence,Pune,Both,Yes,4.5,2k,60,Yes,No,Advance,4,A,8796,8472,4.8,84k,Medium,Yes,1,specific time,10000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,12k,120,No,Yes,Advance,3,B,1200,50000,4.9,50k,High,Yes,5,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,1548,184,Yes,Yes,Advance,1,B,8796,4687,4.3,65k,Low,Yes,5,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,978,150,Yes,No,Intermediate,1,A,5620,20000,4.5,50k,Medium,Yes,6,specific time,30000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.8,978,184,Yes,Yes,Beginners,3,A,5620,2000,4.3,68k,High,No,0,Not available,8000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,1548,60,Yes,Yes,Intermediate,2,A,5620,20000,4.8,48k,Medium,Yes,3,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,6k,270,Yes,Yes,Intermediate,1,B,7600,2000,4.4,65k,Low,Yes,1,specific time,15000
+Udemy,High,Python,Online mode only,Online,Yes,4.4,8k,150,Yes,No,Beginners,1,B,4500,50000,4.9,68k,High,Yes,1,24X7,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.8,6k,120,Yes,Yes,Beginners,3,B,1200,50000,4.5,68k,High,Yes,1,specific time,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,1548,60,Yes,No,Intermediate,2,B,7600,4687,4.5,84k,High,Yes,3,specific time,10000
+Great Learning,High,Data science,Bengaluru,Both,Yes,4.6,23k,120,Yes,Yes,Beginners,4,B,4500,50000,4.8,65k,High,Yes,5,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,2k,150,No,No,Intermediate,1,B,8796,2000,4.4,50k,Low,Yes,2,specific time,30000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,978,200,Yes,Yes,Intermediate,1,A,8796,5600,4.5,50k,Medium,Yes,6,24X7,100000
+Great Learning,High,Artificial Intelligence,Chennai,Both,Yes,4.5,12k,150,Yes,No,Beginners,2,B,7600,50000,4.9,84k,High,Yes,1,specific time,15000
+360DigiTMG,High,Python,Pune,Both,Yes,4.6,1548,120,Yes,No,Intermediate,3,A,7600,20000,4.4,68k,High,Yes,5,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,6k,60,No,Yes,Beginners,2,B,7600,5600,4.4,25k,Low,Yes,6,24X7,150000
+Edvancer,Medium,Artificial Intelligence,Chennai,Both,Yes,4.6,6k,200,Yes,Yes,Beginners,2,B,8796,5600,4.3,48k,High,Yes,1,24X7,150000
+Great Learning,High,Python,Chennai,Both,Yes,4.6,2k,270,Yes,No,Intermediate,3,A,7600,74000,4.6,84k,High,Yes,5,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,1548,184,No,No,Intermediate,1,B,1200,20000,4.3,65k,High,Yes,3,specific time,56000
+Great Learning,High,Tableau,Chennai,Both,Yes,4.5,8k,200,Yes,No,Intermediate,4,B,6822,74000,4.4,65k,High,Yes,2,specific time,15000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,1548,184,Yes,No,Intermediate,1,B,7600,8472,4.9,48k,Low,Yes,5,24X7,100000
+Edvancer,Medium,Tableau,Mumbai,Both,Yes,4.6,8k,270,Yes,No,Intermediate,1,B,5620,5600,4.5,94k,Medium,Yes,2,specific time,30000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.8,1548,200,Yes,Yes,Advance,4,A,5620,5600,4.5,68k,High,Yes,6,specific time,56000
+Udemy,High,Data science,Online mode only,Online,Yes,4.4,1548,120,Yes,Yes,Intermediate,2,A,1200,50000,4.3,48k,High,Yes,6,specific time,10000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,12k,150,No,Yes,Intermediate,3,A,4500,20000,4.9,48k,Medium,Yes,3,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,978,184,Yes,No,Beginners,4,B,8796,8472,4.3,48k,Medium,Yes,6,specific time,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,978,200,Yes,Yes,Beginners,1,B,5620,8472,4.4,25k,Low,Yes,6,specific time,15000
+Great Learning,High,Data science,Chennai,Both,Yes,4.8,1548,150,Yes,Yes,Advance,1,A,7600,50000,4.9,94k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,1548,184,Yes,No,Beginners,1,A,8796,4687,4.4,50k,Medium,Yes,5,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,978,60,Yes,No,Intermediate,1,B,5620,5600,4.4,48k,High,Yes,6,24X7,56000
+Great Learning,High,Data science,Chennai,Both,Yes,4.8,23k,120,Yes,Yes,Advance,4,A,6822,20000,4.3,94k,High,Yes,1,specific time,10000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,978,184,Yes,No,Beginners,2,B,8796,4687,4.9,48k,Low,Yes,2,24X7,56000
+Udemy,High,Python,Online mode only,Online,Yes,4.4,8k,60,No,No,Beginners,1,B,1200,20000,4.5,65k,High,Yes,1,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,1548,184,No,No,Intermediate,2,C,4500,5600,4.6,25k,Low,Yes,6,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,2k,270,Yes,No,Intermediate,2,B,7600,4687,4.3,25k,Low,Yes,2,24X7,150000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,1548,120,Yes,Yes,Intermediate,3,A,4500,2000,4.5,50k,Medium,Yes,2,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,1548,200,Yes,No,Beginners,1,B,5620,5600,4.8,68k,High,Yes,6,24X7,56000
+Great Learning,High,Artificial Intelligence,Pune,Both,Yes,4.8,12k,60,Yes,No,Intermediate,10,A,7600,50000,4.4,94k,High,Yes,6,24X7,100000
+Edvancer,Medium,Java,Chennai,Both,Yes,4.5,12k,270,Yes,No,Beginners,3,A,7600,8472,4.6,48k,Medium,Yes,2,24X7,100000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,2k,150,Yes,No,Beginners,4,A,7600,20000,4.8,50k,High,Yes,5,24X7,100000
+Great Learning,High,Tableau,Delhi,Both,Yes,4.5,23k,120,Yes,Yes,Intermediate,1,A,7600,20000,4.9,84k,High,Yes,3,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,978,270,Yes,No,Intermediate,4,B,5620,8472,4.4,65k,Medium,Yes,1,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,978,120,Yes,Yes,Beginners,3,B,7600,2000,4.4,50k,Medium,Yes,3,24X7,100000
+Great Learning,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,23k,184,Yes,No,Intermediate,1,A,7600,20000,4.8,50k,High,Yes,1,specific time,30000
+Great Learning,High,Python,Delhi,Both,Yes,4.5,2k,150,Yes,No,Intermediate,10,A,7600,74000,4.6,68k,High,Yes,2,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.5,1548,184,Yes,Yes,Beginners,4,B,8796,20000,4.6,68k,High,Yes,5,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,6k,150,Yes,No,Intermediate,1,C,7600,4687,4.9,48k,Low,Yes,2,specific time,15000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,978,60,Yes,Yes,Beginners,4,A,8796,4687,4.3,65k,Medium,Yes,1,specific time,10000
+Great Learning,High,Tableau,Pune,Both,Yes,4.6,1548,270,Yes,Yes,Beginners,2,A,8796,50000,4.8,84k,High,Yes,1,specific time,30000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,978,184,Yes,No,Intermediate,1,A,4500,50000,4.5,50k,High,Yes,5,specific time,56000
+Great Learning,High,Python,Chennai,Both,Yes,4.8,2k,150,Yes,No,Intermediate,4,B,6822,74000,4.5,50k,High,Yes,6,24X7,100000
+Great Learning,High,Python,Pune,Both,Yes,4.8,2k,60,Yes,No,Intermediate,10,A,4500,20000,4.4,68k,High,Yes,1,24X7,150000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,2k,184,Yes,No,Intermediate,2,A,8796,8472,4.3,48k,High,Yes,5,specific time,10000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,2k,60,Yes,Yes,Advance,4,B,8796,20000,4.9,65k,High,Yes,2,24X7,56000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.6,23k,200,Yes,No,Intermediate,4,B,1200,50000,4.4,48k,Medium,Yes,2,24X7,100000
+Edvancer,Medium,Artificial Intelligence,Chennai,Both,Yes,4.8,12k,60,Yes,Yes,Beginners,4,A,8796,8472,4.3,48k,High,Yes,1,specific time,10000
+Edvancer,Medium,Artificial Intelligence,Mumbai,Both,Yes,4.5,1548,120,Yes,Yes,Advance,2,B,6822,5600,4.5,94k,High,No,0,Not available,30000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,978,120,Yes,No,Intermediate,1,A,8796,5600,4.6,84k,High,Yes,2,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,1548,200,Yes,No,Beginners,1,C,8796,8472,4.5,25k,Low,Yes,5,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.6,1548,270,Yes,Yes,Beginners,4,B,4567,8472,4.8,50k,High,Yes,2,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,2k,150,No,No,Beginners,1,B,8796,4687,4.4,25k,Low,Yes,3,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,150,Yes,No,Intermediate,1,A,7600,20000,4.8,68k,Medium,Yes,6,specific time,56000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,6k,150,No,Yes,Beginners,1,B,4500,20000,4.8,48k,High,Yes,3,24X7,150000
+Great Learning,High,Java,Bengaluru,Both,Yes,4.8,2k,60,Yes,No,Beginners,3,A,4500,50000,4.4,50k,High,Yes,1,24X7,150000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,60,Yes,No,Beginners,1,C,8796,4687,4.8,48k,Low,Yes,2,specific time,15000
+Edvancer,Medium,Python,Delhi,Both,Yes,4.4,6k,60,Yes,No,Intermediate,4,B,5620,5600,4.3,94k,High,Yes,6,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,6k,150,No,Yes,Intermediate,2,B,4500,5600,4.3,25k,Low,Yes,5,24X7,56000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.4,12k,200,Yes,No,Beginners,4,A,4567,20000,4.3,50k,Medium,No,0,Not available,8000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,2k,200,Yes,No,Beginners,1,B,5620,8472,4.5,25k,Low,Yes,6,specific time,10000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,2k,200,Yes,No,Beginners,2,B,5620,20000,4.8,68k,Medium,Yes,2,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,978,184,Yes,No,Intermediate,3,B,5620,2000,4.9,68k,Medium,Yes,2,24X7,100000
+360DigiTMG,High,Python,Pune,Both,Yes,4.5,2k,270,Yes,No,Intermediate,4,A,5620,8472,4.9,68k,High,Yes,1,24X7,56000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.8,1548,270,Yes,No,Beginners,3,B,4500,5600,4.6,50k,High,Yes,6,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.8,1548,270,Yes,Yes,Beginners,2,A,7600,5600,4.3,48k,High,Yes,5,specific time,15000
+Great Learning,High,Java,Delhi,Both,Yes,4.8,50k,150,Yes,No,Beginners,1,B,7600,74000,4.4,84k,High,Yes,1,specific time,30000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,1548,120,Yes,No,Beginners,3,A,4500,4687,4.9,65k,Medium,Yes,3,24X7,100000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,50k,200,No,No,Beginners,3,A,4500,50000,4.5,65k,High,Yes,3,specific time,30000
+Great Learning,High,Artificial Intelligence,Pune,Both,Yes,4.5,23k,184,Yes,Yes,Intermediate,3,B,8796,50000,4.9,65k,High,Yes,3,specific time,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,1548,270,Yes,No,Beginners,2,B,4500,4687,4.9,65k,Low,Yes,5,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,1548,120,Yes,Yes,Beginners,3,A,4500,5600,4.6,50k,Medium,Yes,5,24X7,56000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.5,8k,184,Yes,Yes,Beginners,4,B,5620,20000,4.6,94k,Medium,No,0,Not available,10000
+Edvancer,Medium,Artificial Intelligence,Chennai,Both,Yes,4.5,1548,60,Yes,No,Intermediate,1,B,6822,5600,4.3,94k,Medium,Yes,1,specific time,56000
+Edvancer,Medium,Artificial Intelligence,Pune,Both,Yes,4.4,978,150,Yes,No,Intermediate,4,B,8796,20000,4.3,68k,High,No,0,Not available,10000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,2k,184,Yes,No,Beginners,4,B,4500,5600,4.4,84k,High,Yes,5,specific time,56000
+Udemy,High,Data science,Online mode only,Online,Yes,4.8,6k,150,No,Yes,Advance,2,A,1200,20000,4.8,48k,Medium,Yes,2,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,60,Yes,No,Beginners,2,B,7600,2000,4.9,25k,Low,Yes,3,specific time,30000
+Udemy,High,Java,Online mode only,Online,Yes,4.8,978,200,Yes,No,Intermediate,1,B,1200,50000,4.4,68k,Medium,Yes,2,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,1548,184,Yes,Yes,Beginners,2,A,5620,8472,4.8,84k,High,Yes,6,24X7,100000
+Great Learning,High,Java,Chennai,Both,Yes,4.8,1548,184,Yes,No,Intermediate,10,B,8796,74000,4.5,50k,High,Yes,1,24X7,56000
+Edvancer,Medium,Cloud Computing,Delhi,Both,Yes,4.6,12k,200,Yes,Yes,Beginners,2,A,8796,4687,4.3,84k,Medium,Yes,5,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,270,No,No,Intermediate,1,B,8796,8472,4.4,50k,Low,Yes,1,24X7,100000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,12k,60,No,Yes,Beginners,4,A,1200,20000,4.5,48k,High,Yes,5,specific time,15000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,978,200,Yes,Yes,Advance,2,B,7600,2000,4.6,84k,Medium,Yes,5,specific time,56000
+Great Learning,High,Cloud Computing,Pune,Both,Yes,4.6,23k,150,Yes,Yes,Advance,3,A,6822,50000,4.4,68k,High,Yes,2,specific time,30000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.5,12k,150,Yes,No,Beginners,3,B,4567,20000,4.9,68k,High,No,0,Not available,30000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,6k,200,No,Yes,Intermediate,4,A,1200,20000,4.9,48k,High,Yes,1,specific time,30000
+Great Learning,High,Python,Chennai,Both,Yes,4.6,23k,60,Yes,No,Intermediate,1,B,6822,20000,4.3,65k,High,Yes,6,24X7,56000
+Great Learning,High,Java,Chennai,Both,Yes,4.6,50k,200,Yes,No,Intermediate,2,B,8796,50000,4.8,68k,High,Yes,6,specific time,10000
+Edvancer,Medium,Tableau,Chennai,Both,Yes,4.8,2k,184,Yes,Yes,Intermediate,4,A,7600,8472,4.5,68k,Medium,Yes,3,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.8,978,200,Yes,Yes,Advance,4,A,4567,20000,4.5,50k,High,Yes,6,24X7,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,2k,120,Yes,Yes,Beginners,4,B,5620,5600,4.4,68k,High,Yes,6,24X7,100000
+Edvancer,Medium,Java,Bengaluru,Both,Yes,4.4,1548,270,Yes,No,Beginners,3,B,5620,8472,4.8,50k,High,Yes,2,24X7,56000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,1548,184,Yes,No,Intermediate,4,A,4500,5600,4.3,68k,High,Yes,1,24X7,150000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,978,270,No,No,Beginners,2,C,5620,4687,4.8,50k,Low,Yes,5,specific time,15000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.5,978,200,Yes,Yes,Intermediate,3,B,7600,20000,4.9,68k,High,Yes,5,24X7,56000
+Edvancer,Medium,Python,Mumbai,Both,Yes,4.6,12k,184,Yes,No,Intermediate,1,A,7600,8472,4.3,65k,Medium,No,0,Not available,30000
+Great Learning,High,Tableau,Delhi,Both,Yes,4.6,2k,184,Yes,Yes,Beginners,2,A,7600,74000,4.4,50k,High,Yes,6,specific time,30000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,2k,150,No,No,Intermediate,2,B,8796,4687,4.9,25k,Low,Yes,5,24X7,100000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,978,270,Yes,No,Intermediate,3,B,7600,8472,4.3,65k,High,Yes,1,specific time,15000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.6,978,184,Yes,No,Beginners,4,A,4567,20000,4.3,68k,High,Yes,6,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.8,2k,120,No,Yes,Intermediate,1,B,1200,20000,4.4,68k,Medium,Yes,5,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,1548,60,Yes,Yes,Advance,2,A,5620,5600,4.3,48k,Medium,Yes,5,specific time,56000
+Great Learning,High,Tableau,Chennai,Both,Yes,4.5,1548,184,Yes,Yes,Intermediate,3,A,7600,74000,4.9,65k,High,Yes,2,specific time,10000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.8,978,184,Yes,No,Beginners,4,A,7600,20000,4.4,50k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,2k,150,Yes,No,Beginners,1,B,4500,2000,4.3,84k,High,Yes,5,24X7,56000
+360DigiTMG,High,Python,Pune,Both,Yes,4.6,2k,120,Yes,No,Beginners,3,B,4500,5600,4.3,68k,High,Yes,3,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,6k,200,Yes,No,Beginners,1,C,4500,8472,4.9,48k,Low,Yes,3,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,1548,150,Yes,No,Intermediate,2,A,4500,20000,4.5,50k,High,Yes,3,specific time,15000
+Udemy,High,Data science,Online mode only,Online,Yes,4.6,6k,120,Yes,Yes,Beginners,1,A,4500,50000,4.6,65k,High,Yes,3,24X7,150000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,1548,150,Yes,No,Beginners,2,B,4500,5600,4.4,48k,Low,Yes,3,24X7,150000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,270,Yes,Yes,Beginners,2,A,8796,8472,4.9,68k,Medium,Yes,3,specific time,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,978,270,Yes,No,Beginners,1,B,8796,5600,4.4,65k,Low,Yes,2,24X7,100000
+Edvancer,Medium,Tableau,Chennai,Both,Yes,4.6,8k,270,Yes,Yes,Intermediate,1,A,5620,8472,4.9,94k,High,Yes,6,specific time,10000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.8,978,200,Yes,Yes,Intermediate,3,B,5620,5600,4.6,84k,High,No,0,Not available,8000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.5,978,200,Yes,No,Intermediate,2,B,5620,20000,4.4,65k,High,Yes,1,24X7,100000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,1548,184,Yes,Yes,Intermediate,2,A,4567,8472,4.9,84k,High,Yes,5,specific time,10000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.8,2k,150,Yes,Yes,Beginners,4,B,8796,5600,4.9,50k,High,Yes,5,specific time,15000
+Great Learning,High,Data science,Pune,Both,Yes,4.5,1548,120,Yes,Yes,Advance,2,B,4567,20000,4.6,68k,High,Yes,5,specific time,30000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,1548,200,Yes,No,Beginners,3,B,5620,8472,4.5,84k,High,Yes,1,24X7,100000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.6,1548,60,Yes,Yes,Beginners,3,A,8796,20000,4.9,68k,High,Yes,6,24X7,56000
+360DigiTMG,High,Tableau,Pune,Both,Yes,4.8,978,60,Yes,Yes,Beginners,1,A,4500,5600,4.3,48k,High,Yes,2,specific time,10000
+Udemy,High,Java,Online mode only,Online,Yes,4.6,2k,60,No,No,Beginners,3,A,1200,20000,4.4,68k,High,Yes,5,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,120,No,No,Beginners,1,B,4500,5600,4.6,48k,Low,Yes,5,specific time,30000
+Great Learning,High,Cloud Computing,Mumbai,Both,Yes,4.8,23k,200,Yes,Yes,Intermediate,3,A,8796,74000,4.3,50k,High,Yes,1,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,2k,184,Yes,No,Intermediate,2,B,7600,5600,4.6,50k,Low,Yes,5,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,8k,120,No,No,Beginners,4,B,4500,50000,4.5,68k,High,Yes,6,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,1548,200,Yes,No,Intermediate,1,B,8796,4687,4.8,65k,Low,Yes,6,specific time,15000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,2k,184,Yes,No,Intermediate,4,B,8796,20000,4.3,65k,High,Yes,3,24X7,100000
+Great Learning,High,Cloud Computing,Delhi,Both,Yes,4.8,12k,150,Yes,Yes,Beginners,10,A,8796,20000,4.8,68k,High,Yes,5,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,60,No,Yes,Advance,1,B,7600,2000,4.4,48k,Low,Yes,6,specific time,10000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,978,200,Yes,No,Beginners,1,B,4500,4687,4.9,84k,High,Yes,1,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,1548,270,Yes,Yes,Advance,2,A,7600,5600,4.4,48k,High,Yes,6,specific time,10000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.8,12k,60,Yes,Yes,Beginners,4,B,6822,20000,4.6,50k,High,Yes,3,24X7,150000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,1548,200,Yes,No,Advance,1,A,7600,8472,4.6,50k,High,Yes,5,specific time,15000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.8,1548,184,Yes,Yes,Intermediate,4,A,7600,20000,4.8,65k,High,Yes,1,specific time,15000
+Great Learning,High,Data science,Hyderabad,Both,Yes,4.5,2k,270,Yes,Yes,Beginners,3,B,7600,50000,4.3,65k,High,Yes,3,specific time,15000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,2k,150,Yes,Yes,Beginners,3,B,5620,5600,4.3,50k,Medium,Yes,2,specific time,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,978,184,Yes,No,Beginners,1,A,8796,20000,4.8,65k,High,Yes,6,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,6k,150,Yes,No,Beginners,2,B,5620,8472,4.8,65k,Low,Yes,6,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.8,978,270,Yes,No,Intermediate,3,A,8796,8472,4.9,65k,Medium,Yes,5,specific time,10000
+Great Learning,High,Artificial Intelligence,Hyderabad,Both,Yes,4.8,23k,120,Yes,No,Intermediate,3,A,8796,50000,4.5,84k,High,Yes,1,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.5,8k,184,No,No,Intermediate,4,A,1200,50000,4.3,84k,Medium,Yes,3,specific time,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,978,184,Yes,No,Beginners,2,A,7600,5600,4.5,84k,Medium,Yes,2,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,2k,270,Yes,No,Intermediate,4,B,4500,5600,4.6,65k,Medium,Yes,1,24X7,100000
+Great Learning,High,Python,Mumbai,Both,Yes,4.8,978,120,Yes,No,Beginners,4,B,8796,50000,4.3,84k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,1548,270,Yes,Yes,Beginners,1,B,4500,2000,4.4,68k,High,Yes,2,specific time,30000
+Edvancer,Medium,Python,Bengaluru,Both,Yes,4.6,12k,60,Yes,No,Intermediate,2,B,5620,2000,4.9,50k,High,No,0,Not available,8000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.8,6k,200,No,Yes,Advance,4,B,1200,50000,4.9,68k,Medium,Yes,6,specific time,10000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,1548,200,No,Yes,Intermediate,2,B,7600,2000,4.8,50k,Low,Yes,6,24X7,100000
+Edvancer,Medium,Artificial Intelligence,Bengaluru,Both,Yes,4.4,978,200,Yes,Yes,Advance,3,B,8796,2000,4.6,94k,Medium,No,0,Not available,5000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.6,2k,60,Yes,Yes,Advance,1,B,7600,20000,4.9,50k,High,Yes,1,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,1548,270,Yes,No,Beginners,1,A,4500,5600,4.9,68k,Medium,Yes,1,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,6k,270,No,No,Intermediate,2,B,4500,4687,4.6,50k,Low,Yes,2,specific time,30000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,978,60,Yes,No,Intermediate,1,B,5620,2000,4.9,84k,High,Yes,3,specific time,30000
+Great Learning,High,Java,Chennai,Both,Yes,4.6,50k,60,Yes,No,Beginners,1,B,7600,74000,4.3,94k,High,Yes,6,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,2k,200,No,Yes,Beginners,2,B,4500,8472,4.3,48k,Low,Yes,3,24X7,100000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,6k,60,Yes,Yes,Beginners,1,B,4500,20000,4.4,68k,Medium,Yes,1,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,978,120,Yes,Yes,Advance,2,B,8796,2000,4.9,65k,High,Yes,1,specific time,10000
+Great Learning,High,Tableau,Pune,Both,Yes,4.5,23k,200,Yes,Yes,Intermediate,1,A,4567,20000,4.8,50k,High,Yes,2,24X7,100000
+360DigiTMG,High,Data science,Pune,Both,Yes,4.8,2k,200,Yes,Yes,Intermediate,3,B,6822,8472,4.5,48k,High,Yes,1,specific time,15000
+Edvancer,Medium,Cloud Computing,Chennai,Both,Yes,4.5,12k,60,Yes,Yes,Beginners,3,A,6822,20000,4.9,50k,High,No,0,Not available,10000
+Udemy,High,Python,Online mode only,Online,Yes,4.4,2k,184,Yes,No,Beginners,2,A,4500,50000,4.4,84k,High,Yes,3,specific time,15000
+Great Learning,High,Python,Chennai,Both,Yes,4.5,23k,120,Yes,No,Intermediate,1,A,8796,74000,4.8,65k,High,Yes,5,specific time,15000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,2k,150,Yes,No,Intermediate,3,B,8796,4687,4.5,65k,Medium,Yes,2,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.5,2k,60,Yes,Yes,Intermediate,3,A,8796,5600,4.6,48k,High,Yes,3,specific time,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.4,978,120,Yes,No,Intermediate,1,B,4500,4687,4.6,65k,High,Yes,1,24X7,100000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,50k,60,No,No,Beginners,4,B,4500,20000,4.4,48k,High,Yes,5,specific time,56000
+Edvancer,Medium,Java,Hyderabad,Offline,No,4.6,8k,270,Yes,No,Intermediate,2,B,5620,8472,4.9,48k,Medium,No,0,Not available,30000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,2k,120,Yes,Yes,Intermediate,2,A,7600,4687,4.8,84k,Medium,Yes,6,24X7,56000
+Udemy,High,Java,Online mode only,Online,Yes,4.8,978,150,No,No,Beginners,3,B,4500,20000,4.3,50k,Medium,Yes,6,24X7,150000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.5,978,120,Yes,No,Advance,4,A,5620,8472,4.3,68k,High,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,2k,200,Yes,Yes,Intermediate,1,B,5620,5600,4.9,65k,High,Yes,3,specific time,10000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.5,6k,150,No,Yes,Advance,4,B,4500,20000,4.3,84k,Medium,Yes,1,specific time,15000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.5,1548,270,Yes,No,Intermediate,3,B,7600,8472,4.9,94k,Medium,No,0,Not available,10000
+Edvancer,Medium,Python,Pune,Both,Yes,4.5,978,200,Yes,No,Beginners,4,B,6822,8472,4.4,48k,High,Yes,6,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,6k,184,Yes,No,Beginners,2,B,5620,8472,4.9,50k,Low,Yes,5,24X7,100000
+Great Learning,High,Java,Pune,Both,Yes,4.5,2k,60,Yes,No,Beginners,3,B,7600,20000,4.8,94k,High,Yes,1,24X7,100000
+Edvancer,Medium,Python,Pune,Both,Yes,4.6,12k,200,Yes,No,Intermediate,3,A,7600,20000,4.8,48k,High,No,0,Not available,10000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.4,50k,270,Yes,No,Intermediate,1,B,4500,20000,4.4,65k,High,Yes,2,specific time,10000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,978,270,Yes,Yes,Beginners,2,A,8796,5600,4.8,50k,High,Yes,1,specific time,30000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.5,1548,200,Yes,No,Beginners,2,A,4500,4687,4.3,48k,Medium,Yes,5,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.8,978,120,Yes,Yes,Beginners,1,A,8796,8472,4.6,65k,High,Yes,3,24X7,100000
+Great Learning,High,Python,Delhi,Both,Yes,4.6,12k,60,Yes,No,Beginners,3,B,7600,74000,4.5,50k,High,Yes,3,24X7,56000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.4,1548,270,Yes,Yes,Advance,2,B,4500,4687,4.5,65k,Medium,Yes,5,specific time,10000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.5,1548,184,Yes,Yes,Advance,2,A,4500,5600,4.9,50k,High,Yes,3,24X7,56000
+Great Learning,High,Data science,Bengaluru,Both,Yes,4.8,1548,120,Yes,Yes,Advance,1,B,7600,74000,4.9,65k,High,Yes,2,24X7,150000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,978,184,Yes,Yes,Beginners,1,B,4500,8472,4.9,50k,High,Yes,3,specific time,10000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.8,1548,270,Yes,Yes,Beginners,4,A,7600,5600,4.8,48k,High,Yes,5,specific time,10000
+Edvancer,Medium,Data science,Bengaluru,Both,Yes,4.5,8k,120,Yes,Yes,Advance,3,B,7600,4687,4.6,48k,Medium,Yes,5,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,978,270,No,Yes,Beginners,1,C,8796,5600,4.8,48k,Low,Yes,1,24X7,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,200,No,No,Beginners,1,C,4500,8472,4.3,50k,Low,Yes,6,24X7,100000
+Edvancer,Medium,Data science,Mumbai,Both,Yes,4.8,978,120,Yes,Yes,Intermediate,3,B,6822,5600,4.5,94k,Medium,Yes,6,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.8,2k,270,Yes,No,Intermediate,4,A,8796,20000,4.3,84k,Medium,Yes,2,specific time,56000
+360DigiTMG,High,Data science,Hyderabad,Both,Yes,4.8,978,270,Yes,Yes,Advance,2,B,4567,20000,4.9,68k,High,Yes,5,24X7,100000
+Edvancer,Medium,Tableau,Mumbai,Both,Yes,4.8,978,120,Yes,Yes,Beginners,4,B,5620,4687,4.3,50k,Medium,No,0,Not available,5000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.6,23k,150,No,No,Intermediate,2,A,1200,20000,4.9,68k,Medium,Yes,3,24X7,56000
+Great Learning,High,Java,Hyderabad,Both,Yes,4.5,12k,200,Yes,No,Intermediate,1,B,4500,20000,4.9,50k,High,Yes,5,specific time,15000
+360DigiTMG,High,Tableau,Hyderabad,Both,Yes,4.8,1548,184,Yes,No,Beginners,1,B,7600,5600,4.5,68k,High,Yes,2,24X7,56000
+Jigsaw Academy,High,Artificial Intelligence,Bengaluru,Offline,No,4.4,2k,150,Yes,No,Intermediate,3,A,7600,2000,4.5,68k,Medium,Yes,2,specific time,30000
+Great Learning,High,Java,Delhi,Both,Yes,4.6,978,270,Yes,No,Beginners,1,B,5620,50000,4.9,50k,High,Yes,3,specific time,56000
+Udemy,High,Python,Online mode only,Online,Yes,4.8,978,60,Yes,No,Intermediate,4,A,4500,20000,4.9,65k,Medium,Yes,6,specific time,30000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.5,1548,120,Yes,Yes,Advance,3,A,8796,5600,4.8,50k,High,Yes,6,specific time,56000
+Edvancer,Medium,Java,Bengaluru,Both,Yes,4.4,978,270,Yes,No,Beginners,2,A,7600,8472,4.3,94k,Medium,Yes,2,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,978,200,Yes,Yes,Beginners,1,C,7600,2000,4.8,65k,Low,Yes,2,24X7,56000
+Edvancer,Medium,Java,Mumbai,Both,Yes,4.5,12k,60,Yes,No,Intermediate,4,A,6822,4687,4.3,68k,Medium,No,0,Not available,5000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.8,23k,150,Yes,Yes,Intermediate,1,A,1200,50000,4.3,68k,Medium,Yes,3,specific time,30000
+Udemy,High,Java,Online mode only,Online,Yes,4.4,23k,270,No,No,Intermediate,1,A,4500,50000,4.4,68k,Medium,Yes,2,24X7,56000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.5,1548,120,Yes,No,Beginners,4,B,7600,8472,4.8,48k,High,Yes,1,24X7,100000
+360DigiTMG,High,Artificial Intelligence,Hyderabad,Both,Yes,4.5,2k,120,Yes,Yes,Intermediate,2,B,4500,20000,4.6,48k,High,Yes,2,24X7,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,978,150,No,No,Intermediate,1,C,7600,4687,4.4,50k,Low,Yes,2,specific time,10000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,978,184,Yes,No,Beginners,3,B,4500,8472,4.4,48k,High,Yes,1,specific time,56000
+Edvancer,Medium,Tableau,Bengaluru,Both,Yes,4.8,12k,150,Yes,No,Intermediate,1,A,7600,20000,4.8,48k,Medium,No,0,Not available,5000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.4,23k,60,Yes,Yes,Advance,2,A,1200,20000,4.4,84k,Medium,Yes,3,specific time,56000
+Great Learning,High,Artificial Intelligence,Delhi,Both,Yes,4.5,23k,200,Yes,No,Intermediate,3,A,5620,50000,4.3,50k,High,Yes,2,24X7,56000
+Edvancer,Medium,Python,Pune,Both,Yes,4.5,12k,200,Yes,No,Beginners,4,A,8796,20000,4.8,84k,Medium,Yes,5,24X7,56000
+Edvancer,Medium,Tableau,Bengaluru,Both,Yes,4.4,6k,184,Yes,Yes,Intermediate,4,A,5620,4687,4.6,94k,Medium,Yes,3,specific time,15000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,2k,200,No,Yes,Advance,1,B,8796,4687,4.4,25k,Low,Yes,1,specific time,15000
+Great Learning,High,Cloud Computing,Bengaluru,Both,Yes,4.5,12k,184,Yes,Yes,Intermediate,10,A,7600,50000,4.5,50k,High,Yes,2,specific time,10000
+Edvancer,Medium,Python,Pune,Both,Yes,4.6,978,270,Yes,No,Intermediate,4,B,8796,8472,4.9,94k,High,No,0,Not available,8000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,2k,150,Yes,Yes,Beginners,3,A,7600,8472,4.9,68k,High,Yes,5,specific time,10000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,6k,120,Yes,No,Intermediate,2,B,5620,4687,4.3,25k,Low,Yes,5,specific time,56000
+Udemy,High,Data science,Online mode only,Online,Yes,4.8,8k,200,No,Yes,Beginners,1,A,1200,20000,4.6,84k,High,Yes,6,specific time,56000
+Great Learning,High,Artificial Intelligence,Pune,Both,Yes,4.6,12k,184,Yes,Yes,Beginners,10,B,5620,74000,4.8,65k,High,Yes,2,specific time,56000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,6k,150,Yes,No,Intermediate,1,B,4500,8472,4.4,65k,Low,Yes,5,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.4,12k,60,No,No,Intermediate,1,B,4500,50000,4.3,68k,Medium,Yes,1,specific time,30000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,270,Yes,No,Intermediate,1,C,8796,8472,4.9,50k,Low,Yes,1,specific time,15000
+360DigiTMG,High,Artificial Intelligence,Pune,Both,Yes,4.6,2k,120,Yes,No,Beginners,2,B,8796,5600,4.4,48k,High,Yes,1,specific time,15000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,2k,270,Yes,No,Intermediate,4,A,1200,50000,4.6,68k,High,Yes,2,specific time,56000
+Great Learning,High,Data science,Delhi,Both,Yes,4.5,1548,184,Yes,Yes,Advance,3,B,8796,74000,4.6,68k,High,Yes,3,specific time,10000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,1548,150,Yes,Yes,Beginners,1,B,4500,2000,4.4,48k,Low,Yes,6,24X7,100000
+Inventateq,Low,Data science,Bengaluru,Offline,No,3.8,978,270,No,Yes,Intermediate,1,C,5620,5600,4.9,48k,Low,Yes,1,specific time,56000
+360DigiTMG,High,Python,Pune,Both,Yes,4.6,1548,270,Yes,No,Beginners,3,B,8796,8472,4.3,65k,High,Yes,2,specific time,15000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.5,2k,270,Yes,No,Beginners,2,B,8796,8472,4.4,65k,High,Yes,2,specific time,10000
+Great Learning,High,Artificial Intelligence,Chennai,Both,Yes,4.5,6k,150,Yes,No,Advance,1,A,5620,74000,4.6,50k,High,Yes,2,24X7,56000
+360DigiTMG,High,Python,Hyderabad,Both,Yes,4.6,2k,270,Yes,No,Intermediate,2,B,5620,5600,4.4,48k,High,Yes,1,24X7,100000
+Great Learning,High,Cloud Computing,Chennai,Both,Yes,4.8,1548,270,Yes,Yes,Beginners,4,A,8796,20000,4.8,50k,High,Yes,6,24X7,100000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,978,200,Yes,Yes,Beginners,3,A,4500,50000,4.8,65k,High,Yes,6,specific time,30000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,6k,184,Yes,No,Beginners,1,C,8796,4687,4.8,48k,Low,Yes,1,24X7,100000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.8,2k,184,Yes,No,Intermediate,2,B,8796,20000,4.4,68k,High,Yes,5,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,4.3,1548,270,Yes,No,Beginners,2,C,8796,4687,4.3,48k,Low,Yes,2,specific time,10000
+Udemy,High,Python,Online mode only,Online,Yes,4.6,23k,120,Yes,No,Beginners,2,A,1200,20000,4.4,84k,High,Yes,5,specific time,10000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,8k,150,Yes,No,Beginners,2,A,4500,20000,4.3,65k,High,Yes,5,specific time,30000
+Edvancer,Medium,Cloud Computing,Mumbai,Both,Yes,4.8,6k,60,Yes,Yes,Advance,2,B,6822,20000,4.4,48k,Medium,Yes,6,24X7,100000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.5,1548,120,Yes,Yes,Advance,3,B,8796,2000,4.8,68k,High,Yes,1,24X7,100000
+360DigiTMG,High,Data science,Bengaluru,Both,Yes,4.8,2k,120,Yes,Yes,Advance,2,A,5620,20000,4.3,68k,High,Yes,3,24X7,56000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.6,6k,270,Yes,Yes,Beginners,1,B,1200,20000,4.9,68k,High,Yes,6,specific time,56000
+Udemy,High,Java,Online mode only,Online,Yes,4.8,2k,150,No,No,Intermediate,3,A,1200,50000,4.6,50k,High,Yes,6,specific time,10000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.5,1548,60,Yes,No,Beginners,3,A,8796,5600,4.4,65k,High,Yes,5,24X7,100000
+Edvancer,Medium,Data science,Delhi,Both,Yes,4.4,12k,200,Yes,Yes,Intermediate,3,A,8796,4687,4.4,65k,Medium,Yes,2,24X7,56000
+Inventateq,Low,Data science,Bengaluru,Offline,No,4.3,978,200,Yes,Yes,Intermediate,1,B,5620,8472,4.3,48k,Low,Yes,1,24X7,56000
+Great Learning,High,Cloud Computing,Mumbai,Both,Yes,4.5,23k,270,Yes,Yes,Intermediate,2,A,7600,50000,4.3,68k,High,Yes,6,24X7,100000
+360DigiTMG,High,Artificial Intelligence,Bengaluru,Both,Yes,4.6,1548,270,Yes,No,Intermediate,3,A,4500,20000,4.3,68k,High,Yes,1,24X7,100000
+Inventateq,Low,Java,Bengaluru,Offline,No,3.8,2k,270,Yes,No,Beginners,2,C,5620,2000,4.8,48k,Low,Yes,6,specific time,56000
+Edvancer,Medium,Data science,Hyderabad,Offline,No,4.5,978,150,Yes,Yes,Beginners,2,B,4567,20000,4.9,50k,High,Yes,5,24X7,56000
+Jigsaw Academy,High,Python,Bengaluru,Offline,No,4.5,1548,200,Yes,No,Beginners,1,B,7600,2000,4.5,50k,High,Yes,2,24X7,56000
+Udemy,High,Python,Online mode only,Online,Yes,4.6,2k,60,No,No,Intermediate,1,A,1200,20000,4.5,84k,High,Yes,2,specific time,10000
+Udemy,High,Tableau,Online mode only,Online,Yes,4.8,23k,120,Yes,Yes,Beginners,2,A,4500,50000,4.5,65k,Medium,Yes,5,specific time,15000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,1548,60,Yes,No,Beginners,3,A,4500,4687,4.8,48k,Medium,Yes,1,24X7,100000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,978,150,No,No,Intermediate,1,C,5620,4687,4.3,50k,Low,Yes,5,specific time,10000
+Great Learning,High,Tableau,Delhi,Both,Yes,4.8,6k,184,Yes,No,Intermediate,3,A,7600,50000,4.9,94k,High,Yes,3,specific time,15000
+Edvancer,Medium,Java,Delhi,Both,Yes,4.4,978,60,Yes,No,Intermediate,4,B,7600,20000,4.8,48k,Medium,No,0,Not available,5000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.4,1548,120,Yes,No,Beginners,3,A,5620,8472,4.4,84k,Medium,Yes,2,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,3.8,2k,60,Yes,No,Beginners,2,B,5620,8472,4.3,25k,Low,Yes,3,24X7,100000
+Edvancer,Medium,Artificial Intelligence,Mumbai,Both,Yes,4.5,1548,60,Yes,Yes,Beginners,4,A,8796,2000,4.3,65k,High,No,0,Not available,8000
+Jigsaw Academy,High,Data science,Bengaluru,Offline,No,4.8,2k,184,Yes,Yes,Advance,2,A,7600,2000,4.6,68k,Medium,Yes,1,specific time,56000
+Inventateq,Low,Python,Bengaluru,Offline,No,4.3,2k,200,Yes,No,Intermediate,2,B,8796,8472,4.8,65k,Low,Yes,5,24X7,100000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.8,2k,184,Yes,No,Beginners,3,B,8796,20000,4.5,68k,Medium,Yes,6,specific time,30000
+Udemy,High,Cloud Computing,Online mode only,Online,Yes,4.8,2k,120,Yes,Yes,Intermediate,3,B,4500,20000,4.6,48k,High,Yes,5,24X7,150000
+Great Learning,High,Tableau,Hyderabad,Both,Yes,4.8,12k,150,Yes,No,Beginners,3,A,8796,20000,4.8,50k,High,Yes,1,24X7,100000
+Udemy,High,Java,Online mode only,Online,Yes,4.5,8k,200,No,No,Intermediate,4,B,1200,20000,4.8,50k,Medium,Yes,6,24X7,56000
+360DigiTMG,High,Python,Bengaluru,Both,Yes,4.6,2k,184,Yes,No,Intermediate,3,A,7600,5600,4.4,48k,High,Yes,3,24X7,100000
+Great Learning,High,Python,Chennai,Both,Yes,4.5,8k,200,Yes,No,Beginners,2,A,6822,74000,4.5,68k,High,Yes,6,24X7,100000
+Great Learning,High,Java,Mumbai,Both,Yes,4.6,1548,184,Yes,No,Beginners,3,A,7600,50000,4.6,94k,High,Yes,5,24X7,100000
+Udemy,High,Artificial Intelligence,Online mode only,Online,Yes,4.8,2k,150,Yes,No,Beginners,3,A,1200,50000,4.9,68k,Medium,Yes,6,24X7,100000
+Edvancer,Medium,Java,Delhi,Both,Yes,4.6,8k,150,Yes,No,Intermediate,3,B,5620,20000,4.5,65k,Medium,Yes,3,24X7,56000
+Great Learning,High,Cloud Computing,Bengaluru,Both,Yes,4.6,8k,150,Yes,Yes,Intermediate,10,A,8796,20000,4.5,68k,High,Yes,2,24X7,100000
+Udemy,High,Data science,Online mode only,Online,Yes,4.5,978,60,No,Yes,Intermediate,4,B,1200,20000,4.4,68k,Medium,Yes,2,24X7,56000
+Jigsaw Academy,High,Java,Bengaluru,Offline,No,4.5,2k,200,Yes,No,Beginners,2,A,4500,20000,4.3,84k,High,Yes,2,specific time,56000
+Edvancer,Medium,Artificial Intelligence,Delhi,Both,Yes,4.5,978,120,Yes,Yes,Beginners,3,B,5620,5600,4.6,84k,Medium,Yes,6,24X7,100000
+360DigiTMG,High,Tableau,Bengaluru,Both,Yes,4.5,2k,120,Yes,Yes,Beginners,3,B,8796,20000,4.3,50k,High,Yes,3,24X7,100000
