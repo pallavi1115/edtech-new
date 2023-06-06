@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>Data Science</title>
+   </head>
+   <style>
+      body{
+      background: linear-gradient(0deg, hwb(0deg 0% 100% / 77%), rgb(0 0 0 / 50%)),url(https://t3.ftcdn.net/jpg/02/35/62/96/240_F_235629670_j0CsjCZtTbbAwR5DcYfZH76UPIphIOBr.jpg);
+      background-size: cover;
+      color: white;
+      text-align: center;
+      background-repeat: no-repeat;
+      height:100vh;
+      }
+           
+      img{
+     width: 50px;    
+     display:inline;
+      }
+      
+      .title{
+      top: 2%;
+      left: 40%;
+      font-size: 50px;
+      border: 5px solid white;
+      margin-block-start: 0.25em;
+     margin-block-end: 0.50em;
+     margin-inline-start: 200px;
+     margin-inline-end:200px;
+      padding: 30px
+      }
+      
+      .submitbtn{
+      padding: 10px 60px;
+      margin-top: 30px;
+      text-transform: uppercase;
+      border-radius: 5px;
+      background-color: #18434e;
+      border: 1px solid white;
+      transition: ease-in 0.3s;
+      color: white;
+      font-size: 25px;
+      font-weight: 600;
+      }
+      .submitbtn:hover{
+      transition: ease-in 0.3s;
+      background-color:white;
+        color: #18434e;
+        letter-spacing: 2px;
+        cursor: pointer;
+      }
+      
+       .title h1 {
+       
+       font-size: 55px;
+     display:inline;
+       }
+      
+      label{
+      font-size: 25px;
+      float:left !important;}
+      .listcolor{
+      font-size :20px}
+      select{
+      float:right;
+      border-radius: 5px;
+      padding: 2px 15px;}
+       ul {
+           float: right;
+           list-style-type: none;
+           margin-top: -55px;
+           margin-right: 185px;
+
+       }
+       padding: 5px 0px;
+
+       ul li {
+           display: inline-block;
+           padding: 10px;
+       }
+
+       ul li a {
+           text-decoration: none;
+           color: white;
+           font-size:25px;
+           padding: 5px 20px;
+           border: 1px solid transparent;
+           transition: 0.6s ease;
+       }
+
+       ul li a:hover {
+           background-color: white;
+           color: #000;
+       }
+   </style>
+   <body>
+      <div >
+      <div class="form">
+         <form action="{{url_for("datascience")}}"
+         method="post">
+         <div class="title">
+         
+                     <img class="logo"  src="data:image/png;base64,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">
+
+            <h1>  Data Science </h1>
+            
+         </div>
+         <br></br>
+         <ul>
+             <li><a href="/">Home</a></li>
+         </ul>
+         <div style="max-width: 70%; margin:auto;" >
+         
+            <label for="f1"> 
+            Qualification of instructor </label>
+            <select class=listcolor id="f1" name="f1" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="0">Graduate</option>
+               <option value="1">Post Graduate</option>
+               <option value="2">Doctorate</option>
+            </select>
+            <br>
+            </br>
+          
+            <label for="f2"> 
+            Mode of the Course </label>
+            <select class=listcolor id="f2" name="f2" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="0">Both</option>
+               <option value="1">Offline</option>
+               <option value="2">Online </option>
+            </select>
+            <br>
+            </br>
+            <label for="f3">
+            Duration of the course</label>
+            <select class=listcolor id="f3" name="f3" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="30">30 Hours</option>
+               <option value="60">60 Hours</option>
+               <option value="90">90 Hours</option>
+               <option value="100">100 Hours</option>
+               <option value="120">120 Hours</option>
+               <option value="150">150 Hours</option>
+               <option value="180">180 Hours</option>
+               <option value="200">200 Hours</option>
+               <option value="220">220 Hours</option>
+               <option value="250">250 Hours</option>
+            </select>
+            <br>
+            </br>
+            <label for="f4">
+            Course level </label> 
+            <select class=listcolor id="f4" name="f4" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="0">Advance</option>
+               <option value="1">Beginners</option>
+               <option value="1">Intermediate</option>
+            </select>
+            <br>
+            </br>
+            <label for="f5">
+            Is there mentor available for doubt clarification</label>&nbsp;&nbsp;
+            <select class=listcolor  id="f5" name="f5" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="0">No</option>
+               <option value="1">Yes</option>
+            </select>
+            <br>
+            </br>
+            <label for="f6">
+            Marketing cost of institution </label>&nbsp;&nbsp;
+            <select class=listcolor  id="f6" name="f6" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="0">>2000</option>
+               <option value="1">2k<5k</option>
+               <option value="2">5k<7k</option>
+               <option value="3">7k>10k</option>
+               <option value="4">10k<20k</option>
+               <option value="5">20k>50k</option>
+               <option value="6"><50k</option>
+            </select>
+            <br>
+            </br>
+            <label for="f7"
+            >Number of Instructor in the institution </label>&nbsp;&nbsp;
+            <select class=listcolor  id="f7" name="f7" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="1">1</option>
+               <option value="2">2</option>
+               <option value="3">3</option>
+               <option value="4">Between 5 & 10</option>
+               <option value="10">More than 10</option>
+            </select>
+            <br>
+            </br>
+            <label for="f8">
+            Maintenance of the institution </label>&nbsp;&nbsp;
+            <select class=listcolor  id="f8" name="f8" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="0">>1200</option>
+               <option value="1">1200<4500</option>
+               <option value="2">4500<5000</option>
+               <option value="3">5000>6000</option>
+               <option value="4">6000<7000</option>
+               <option value="5">7000>8000</option>
+               <option value="6"><8000</option>
+            </select>
+            <br>
+            </br>
+            <label for="f9">
+            Number of students </label>&nbsp;&nbsp;
+            <select class=listcolor  id="f9" name="f9" required >
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="978">>1000</option>
+               <option value="1548">1000 < 1600</option>
+               <option value="2000">1600<2000</option>
+               <option value="6000">2000<6000</option>
+               <option value="8000">6000<8000</option>
+               <option value="12000">8000<12000</option>
+               <option value="23000">12000<30000</option>
+               <option value="50000"><50000</option>
+            </select>
+            <br>
+            </br>
+            <label for="f10">
+            Placement Available or Not </label>&nbsp;&nbsp;
+            <select class=listcolor  id="f10" name="f10" required>
+               <option selected disabled hidden value="">Select one option </option>
+               <option value="0">No</option>
+               <option value="1">Yes</option>
+               
+               
+            </select>
+            <br>
+            </br>
+         </div>
+         
+         <button class="submitbtn" type="submit" value="submit" class="btn btn-warning btn-block btn-large">Predict</button>
+         <h1 class="navbar-brand" style="color:white;">{{output}}</h1>
+      </div>
+      </form>
+   </body>
+</html>
