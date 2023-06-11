@@ -43,7 +43,7 @@ def cloud_computing():
     final_features = [np.array(final_features)]
     prediction = model.predict(final_features)
 
-    return render_template('cloud_computing.html', output='Price of the Colud Computing Course is ₹ {}'.format(prediction[0]))
+    return render_template('cloud_computing.html', output='Price of the Cloud Computing Course is ₹ {}'.format(prediction[0]))
 
 @app.route('/deep_learning' ,methods = ['POST'])
 def deep_learning():
